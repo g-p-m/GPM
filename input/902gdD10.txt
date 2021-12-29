@@ -1,0 +1,1400 @@
+NAM	PRO	DAY	MON	YEA	HOU	TMZ	LAT	LON	PLA
+Aaron Harold	MI	21	06	1921	07:00	6h	40N29	86W8	Kokomo, IN
+Aaron Henry	SP	05	02	1934	20:25	6h	30N41	88W3	Mobile, AL
+Abramowicz Daniel	SP	13	07	1945	09:16	4h	40N22	80W37	Steubenville, OH
+Adams Robert	SC	23	07	1926	06:17	5h	41N52	87W39	Chicago, IL
+Akins James	PO	15	10	1926	02:00	5h	41N5	81W31	Akron, OH
+Akins Virgil	SP	10	03	1928	18:45	6h	38N37	90W12	St Louis, MO
+Alberty Robert	SC	21	06	1921	01:30	6h	37N14	96W59	Winfield, KS
+Albright Jack	MI	10	01	1921	00:10	6h	35N8	90W3	Memphis, TN
+Aldredge Tom	AC	28	02	1928	12:15	5h	39N45	84W12	Dayton, OH
+Aldrin Edwin	MI	20	01	1930	14:17	5h	40N49	74W13	Montclair, NJ
+Alioto Joseph	PO	12	02	1916	08:00	8h	37N47	122W25	San Francisco, CA
+Allen Elisabeth	SP	24	11	1950	08:40	5h	34N0	81W3	Columbia, SC
+Allen James	MI	17	11	1925	07:50	6h	38N15	85W46	Louisville, KY
+Aller Lawrence	SC	24	09	1913	19:30	8h	47N14	122W26	Tacoma, WA
+Alpert Herb	AR	31	03	1935	14:46	8h	34N4	118W15	Los Angeles, CA
+Alvarez Luis	SC	13	06	1911	02:45	8h	37N47	122W25	San Francisco, CA
+Alworth Lance	SP	03	08	1940	23:04	6h	29N46	95W22	Houston, TX
+Ameche Alan	SP	01	06	1933	20:00	6h	42N35	87W49	Kenosha, WI
+Ameche Don	AC	31	05	1908	19:00	6h	42N35	87W49	Kenosha, WI
+Anderson Jackson	XX	09	10	1922	22:18	8h	33N47	118W11	Long Beach, CA
+Anderson John	PO	15	02	1922	20:55	6h	42N16	89W6	Rockford, IL
+Anderson Norman	MI	07	02	1913	19:45	6h	44N5	87W41	Manitowoc, WI
+Anderson Paul	SP	17	10	1932	05:30	5h	34N35	83W19	Toccoa, GA
+Anderson Richard	MI	26	06	1921	00:40	8h	47N14	122W26	Tacoma, WA
+Anderson Robert	EX	13	04	1917	05:00	6h	41N52	87W39	Chicago, IL
+Anderson Roy	EX	15	12	1920	00:20	8h	37N44	121W7	Ripon, CA
+Anderson Wendell	PO	01	02	1933	12:15	6h	44N57	93W6	St Paul, MN
+Andrews Burton	MI	14	07	1916	11:35	8h	34N4	118W15	Los Angeles, CA
+Andrus Cecil	PO	25	08	1931	08:20	8h	45N43	121W31	Hood River, OR
+Annenberg Walter	PO	13	03	1908	13:30	6h	43N2	87W55	Milwaukee, WI
+Anspach Herbert	EX	03	09	1926	04:00	6h	40N46	83W49	Ada, OH
+Anthony Earl	SP	27	04	1938	04:38	8h	47N14	122W20	Tacoma, WA
+Anthony Joseph	AC	24	05	1912	21:00	6h	43N2	87W55	Milwaukee, WI
+Antoon A.	AC	07	12	1944	13:55	4h	42N43	71W10	Lawrence, MA
+Archer George	SP	01	10	1939	23:05	8h	37N47	122W25	San Francisco, CA
+Arfons Art	AR	03	02	1926	00:45	6h	41N5	81W31	Akron, OH
+Ariyoshi George	PO	12	03	1926	05:00	10h30	21N19	157W52	Honolulu, HI
+Armstrong Warren	SP	29	08	1946	14:08	6h	39N7	94W38	Kansas City, KS
+Arness James	AC	26	05	1923	01:26	6h	44N59	93W16	Minneapolis, MN
+Arnold James	SC	05	05	1923	00:40	5h	40N32	74W22	Metuchen, NJ
+Ascani Fred	MI	29	05	1917	20:00	6h	42N31	89W2	Beloit, WI
+Ash Roy	EX	20	10	1918	09:11	7h	34N4	118W15	Los Angeles, CA
+Ashe Arthur	SP	10	07	1943	12:55	4h	37N33	77W27	Richmond, VA
+Ashen Michael	AR	15	07	1943	08:49	7h	34N4	118W15	Los Angeles, CA
+Ashley Elisabeth	AC	30	08	1939	03:30	5h	29N11	82W8	Ocala, FL
+Atherton William	AC	30	07	1947	15:43	4h	41N18	72W55	New Haven, CT
+Attlesey Richard	SP	10	05	1929	12:30	8h	33N54	118W13	Compton, CA
+Austin Tracy	SP	12	12	1962	06:18	8h	33N50	118W23	RedondoBeach, CA
+Babashoff Shirley	SP	31	01	1957	14:05	8h	33N58	118W3	Whittier, CA
+Baber Alice	AR	22	08	1928	03:40	6h	39N30	88W10	Charleston, IL
+Backe John	EX	05	07	1932	14:15	5h	41N5	81W31	Akron, OH
+Backus George	SC	24	05	1930	10:47	5h	41N52	87W39	Chicago, IL
+Backus Jim	AC	25	02	1913	07:30	6h	41N30	81W42	Cleveland, OH
+Backus Richard	AC	28	03	1945	17:40	4h	43N1	71W36	Goffstown, NH
+Baer Buddy	SP	11	06	1915	17:30	7h	39N44	104W59	Danver, CO
+Bagley Worth	MI	29	07	1924	15:20	5h	38N59	76W30	Annapolis, MD
+Bailar Benjamin	PO	21	04	1934	09:46	6h	40N7	88W15	Champaign, IL
+Bailey Mildred	MI	18	04	1919	05:00	4h	35N18	77W20	Fort Barnwell, NC
+Baird Joseph	EX	18	03	1934	04:37	5h	39N58	83W0	Columbus, OH
+Baker Diane	AC	25	02	1938	15:18	8h	34N6	118W21	Hollywood, CA
+Baker Howard	PO	15	11	1925	15:00	6h	35N48	84W16	Huntsville, TN
+Baker Thane	SP	04	10	1931	04:15	6h	37N0	101W54	Elkhart, KS
+Bakken James	SP	02	11	1940	04:51	6h	43N4	89W24	Madison, WI
+Baldessari John	AR	17	06	1931	19:55	8h	32N41	117W6	National City, CA
+Ball Catie	SP	30	09	1951	13:58	5h	30N20	81W39	Jacksonville, FL
+Ball William	AC	29	04	1931	12:51	5h	41N52	87W39	Chicago, IL
+Banks Ernie	SP	30	01	1931	04:00	6h	32N47	96W49	Dallas, TX
+Barnes Harry	PO	05	06	1926	06:02	6h	44N57	93W6	St Paul, MN
+Barnes Lee	SP	16	07	1906	15:00	7h	40N45	111W53	Salt Lake City, UT
+Barry Richard	SP	28	03	1944	14:32	4h	40N40	74W13	Elizabeth, NJ
+Barrymore John	AC	04	06	1932	15:42	8h	34N4	118W25	Beverly Hills, CA
+Bartlett Dewey	EX	28	03	1919	13:15	5h	39N25	81W27	Marietta, OH
+Basehart Richard	AC	31	08	1914	05:30	6h	39N56	82W1	Zanesville, OH
+Battles Clifford	SP	01	05	1910	22:31	5h	41N5	81W31	Akron, OH
+Baugh William	MI	07	07	1930	06:30	6h	37N27	84W46	Mc Kinney, KY
+Baughan Maxie	SP	03	08	1938	07:00	6h	32N39	87W53	Forkland, AL
+Bean Alan	MI	15	03	1932	15:10	6h	35N27	100W16	Wheeler, TX
+Bean Orson	AC	22	07	1928	08:00	5h	44N29	73W12	Burlington, VT
+Beard Ralph	SP	01	12	1927	02:20	6h	37N47	86W28	Hardingsburg, KY
+Beasley Bruce	AR	20	05	1939	20:40	8h	34N4	118W15	Los Angeles, CA
+Beatty George	MI	26	10	1917	05:50	5h	35N0	78W20	Clinton, NC
+Beban Gary	SP	05	08	1946	22:06	8h	37N47	122W25	San Francisco, CA
+Bechtle Robert	AR	14	05	1932	06:37	8h	37N47	122W25	San Francisco, CA
+Beckington Herbert	MI	03	10	1920	22:35	6h	42N16	89W6	Rockford, IL
+Beer Samuel	SC	28	07	1911	22:00	6h	40N48	82W59	Bucyrus, OH
+Bell Clarence	MI	25	07	1916	02:30	5h	35N53	79W42	Hamlet, NC
+Bellamy Walt	SP	24	07	1939	10:55	5h	35N7	77W3	New Bern, NC
+Bendetsen Karl	EX	11	10	1907	05:30	8h	46N59	123W50	Aberdeen, WA
+Bennett Emmet	SC	12	07	1918	02:35	5h	44N59	93W16	Minneapolis, MN
+Bentsen Lloyd	PO	11	02	1921	02:30	6h	26N13	98W19	Mission, TX
+Berardinelli Giuseppe	SP	28	03	1922	00:00	5h	41N30	81W42	Cleveland, OH
+Bergen Candice	AC	09	05	1946	21:52	8h	34N4	118W15	Los Angeles, CA
+Berger Thomas	WR	20	07	1924	12:45	5h	39N6	84W31	Cincinnati, OH
+Bergland Robert	PO	22	07	1928	15:50	6h	48N51	95W46	Roseau, MN
+Bergquist Kenneth	MI	21	11	1912	11:00	6h	47N47	96W37	Crookston, MN
+Berra Yogi	SP	12	05	1925	02:00	6h	38N37	90W12	St Louis, MO
+Berrigan Daniel	WR	09	05	1921	18:30	6h	47N31	92W32	Virginia, MN
+Berrigan Philip	WR	05	10	1923	00:45	6h	47N2	91W40	Two Harbors, MN
+Berry Raymond	SP	27	02	1933	23:40	6h	27N47	97W24	Corpus Christi, TX
+Berry Wendell	WR	05	08	1934	23:33	6h	38N27	85W09	Henry County, KY
+Bertelsen James	SP	26	02	1950	00:59	6h	44N57	93W6	St Paul, MN
+Betz Pauline	SP	06	08	1919	02:50	5h	39N45	84W12	Dayton, OH
+Biffle Jerome	SP	20	03	1928	09:45	7h	39N44	104W59	Denver, CO
+Binger James	EX	16	05	1916	20:00	6h	44N59	93W16	Minneapolis, MN
+Bisplinghoff Raymond	SC	07	02	1917	03:45	6h	39N24	84W34	Hamilton, OH
+Bixby Bill	AC	22	01	1934	23:20	8h	37N47	122W25	San Francisco, CA
+Black Karen	AC	01	07	1939	05:00	5h	42N2	87W51	Park Ridge, IL
+Blake Robert	AC	18	09	1933	08:30	4h	40N49	74W9	Nutley, NJ
+Blakefield William	MI	28	12	1917	06:30	6h	44N50	87W23	Sturgeon Bay, WI
+Blanchard Felix	SP	11	12	1924	19:30	5h	34N13	80W15	Bishopville, SC
+Blanton Leonard	PO	10	04	1930	21:30	6h	35N11	88W10	Hardin County, TN
+Blaser Robin	WR	18	05	1925	06:30	7h	39N44	104W59	Denver, CO
+Blegen Judith	AR	27	04	1941	19:00	5h	38N3	84W30	Lexington, KY
+Blish James	WR	23	05	1921	04:00	4h	40N46	74W13	East Orange, NJ
+Bliss Helena	AC	31	12	1917	23:25	6h	38N37	90W12	St Louis, MO
+Blount Hedon	AC	15	01	1929	13:50	6h	32N15	101W28	Big Spring, TX
+Blozis Al	SP	05	01	1919	19:00	5h	40N52	74W6	Garfield, NJ
+Blume Judy	WR	12	02	1938	21:59	5h	40N40	74W13	Elizabeth, NJ
+Bluth Ray	SP	31	12	1927	17:00	6h	38N37	90W12	St Louis, MO
+Bly Robert	WR	23	12	1926	07:20	6h	45N1	96W11	Madison, MN
+Boer Charles	WR	25	06	1939	09:42	5h	41N30	81W42	Cleveland, OH
+Bolt Jones	MI	16	06	1921	06:40	5h	34N24	82W15	Ware Shoals, SC
+Bombeck Erma	WR	21	02	1927	04:40	6h	39N45	84W12	Dayton, OH
+Bond Christopher	PO	06	03	1939	21:05	6h	38N37	90W12	St Louis, MO
+Booher Edward	EX	22	06	1911	23:27	6h	39N45	84W12	Dayton, OH
+Boone Richard	AC	18	06	1917	05:30	8h	34N4	118W15	Los Angeles, CA
+Booth Jane	SP	31	03	1948	09:38	7h	34N4	118W15	Los Angeles, CA
+Borman Frank	MI	14	03	1928	19:30	6h	41N36	87W20	Gary, IN
+Bosco Philip	AC	26	09	1930	12:45	4h	40N44	74W4	Jersey City, NJ
+Bosley Tom	AC	01	10	1927	00:36	6h	41N52	87W39	Chicago, IL
+Bottoms Timothy	AC	30	08	1951	22:28	7h	34N25	119W42	Santa Barbara, CA
+Bourjaily Vance	WR	17	09	1922	14:55	5h	41N30	81W42	Cleveland, OH
+Bourland Clifford	SP	01	01	1921	18:10	8h	34N4	118W15	Los Angeles, CA
+Bouton Jim	AC	08	03	1939	20:50	5h	40N44	74W10	Newark, NJ
+Bova Joseph	AC	25	05	1924	18:15	5h	41N30	81W42	Cleveland, OH
+Bowden Don	SP	08	08	1936	08:49	8h	37N20	121W53	San Jose, CA
+Bowen William	SC	06	10	1933	15:07	5h	39N6	84W31	Cincinnati, OH
+Bowman Lee	AC	28	12	1914	15:00	6h	39N6	84W31	Cincinnati, OH
+Boyd Bobby	SP	25	10	1933	23:15	6h	41N52	87W39	Chicago, IL
+Boyer Paul	SC	31	07	1918	02:45	6h	40N14	111W39	Provo, UT
+Boylan George	MI	03	12	1919	16:30	5h	34N14	77W55	Wilmington, NC
+Bradbury Norris	SC	30	05	1909	00:30	8h	34N25	119W42	Santa Barbara, CA
+Bradbury Ray	WR	22	08	1920	16:50	5h	42N22	87W50	Waukegan, IL
+Bradley Bill	PO	28	07	1943	11:20	5h	38N14	90W23	Crystal City, MO
+Bradley Thomas	PO	29	12	1917	04:00	6h	30N59	96W40	Calvert, TX
+Bragg Don	SP	15	05	1935	15:20	4h	39N44	75W28	Penns Grove, NJ
+Brand Vance	MI	09	05	1931	02:20	7h	40N10	105W6	Longmont, CO
+Brandi John	WR	05	11	1943	19:58	7h	34N4	118W15	Los Angeles, CA
+Brando Marlon	AC	03	04	1924	23:00	6h	41N17	96W1	Omaha, NE
+Branscomb Lewis	SC	03	08	1926	06:40	5h	35N36	82W33	?USAAsheville, NC
+Brauer Jerald	XX	16	09	1921	23:45	4h	43N47	88W27	Fond Du Lac, WI
+Breedlove Craig	EX	23	03	1937	06:58	8h	34N4	118W15	Los Angeles, CA
+Breedlove James	MI	08	09	1922	09:00	6h	36N43	86W35	Franklin, KY
+Bremser Ray	WR	22	02	1934	00:01	5h	40N44	74W4	Jersey Citiy, NJ
+Brenner Elisabeth	WR	16	11	1935	03:10	5h	39N6	84W31	Cincinnati, OH
+Breschi Karen	AR	29	10	1941	21:38	8h	37N49	122W16	Oakland, CA
+Brett Devol	MI	01	08	1923	10:55	8h	37N47	122W25	San Francisco, CA
+Brewer Leo	SC	13	06	1919	21:12	5h	38N37	90W12	St Louis, MO
+Bridges Beau	AC	09	12	1941	03:56	8h	34N4	118W15	Los Angeles, CA
+Bridges Jeff	AC	04	12	1949	23:58	8h	34N4	118W15	Los Angeles, CA
+Brodie John	SP	14	08	1935	03:20	8h	37N47	122W25	San Francisco, CA
+Brookes Jacqueline	AC	24	07	1930	18:50	4h	40N49	74W13	Montclair, NJ
+Brooks Gwendolyn	WR	17	06	1917	13:00	6h	39N3	95W40	Topeka, KS
+Brooks Harvey	SC	05	08	1915	08:00	5h	41N30	81W42	Cleveland, OH
+Brower David	XX	01	07	1912	13:55	8h	37N52	122W16	Berkeley, CA
+Brown Edmund	PO	07	04	1938	12:34	8h	37N47	122W25	San Francisco, CA
+Brown Robert	SP	08	12	1941	04:15	5h	41N30	81W42	Cleveland, OH
+Brown Roger	SP	01	05	1937	05:00	5h	37N8	76W50	Surry County, VA
+Browning John	AR	23	05	1933	02:05	7h	39N44	104W59	Denver, CO
+Brubeck David	AR	06	12	1920	18:35	8h	37N59	122W2	Concord, CA
+Brueckner Keith	SC	19	03	1924	22:38	6h	44N59	93W16	Minneapolis, MN
+Brundage Howard	EX	09	11	1923	13:00	5h	40N44	74W10	Newark, NJ
+Bryant Douglas	XX	20	06	1913	08:15	8h	36N20	119W18	Visalia, CA
+Buchen Philip	PO	27	02	1916	21:00	6h	43N46	87W45	Sheboygen, WI
+Buchholz Earl	SP	16	09	1940	09:25	6h	38N37	90W12	St Louis, MO
+Budd Frank	SP	20	07	1939	06:35	5h	39N38	74W12	Long Beach, NJ
+Budge John	SP	13	06	1915	04:00	6h	37N49	122W16	Oakland, CA
+Burcham Lester	EX	26	04	1913	04:00	6h	39N43	82W36	Lancaster, OH
+Burke Edward	SP	04	03	1940	09:20	8h	39N9	123W13	Ukiah, CA
+Burke Yvonne	PO	05	10	1932	23:00	8h	34N4	118W15	Los Angeles, CA
+Burrell Joseph	EX	07	09	1919	08:42	5h	41N45	88W19	Aurora, IL
+Bush Robert	MI	04	10	1926	03:00	8h	47N14	122W26	Tacoma, WA
+Butkus Dick	SP	09	12	1942	21:20	5h	41N52	87W39	Chicago, IL
+Button Richard	SP	18	07	1929	15:34	4h	40N54	73W59	Englewood, NJ
+Buzzi Ruth	AC	24	07	1936	19:10	4h	41N22	71W50	Westerly, RI
+Byrd Robert	PO	20	11	1917	14:00	5h	36N10	81W9	North Wilkesboro, NC
+Byrne Brendan	PO	01	04	1924	06:58	5h	40N47	74W14	West Orange, NJ
+Byrom Fletcher	EX	13	07	1918	10:00	4h	41N30	81W42	Cleveland, OH
+Cage John	AR	05	09	1912	05:00	8h	34N4	118W15	Los Angeles, CA
+Cagle Malcolm	MI	26	09	1918	23:00	6h	39N4	108W33	Grand Junction, CO
+Caldwell Philip	EX	27	01	1920	08:00	5h	39N16	83W09	Bourneville, OH
+Calvert James	MI	08	09	1920	08:30	5h	41N30	81W42	Cleveland, OH
+Camm Frank	MI	13	03	1922	23:00	6h	37N54	85W57	Fort Knox, KY
+Campbell Allan	SC	27	04	1929	12:00	8h	37N52	122W16	Berkeley, CA
+Campbell Milton	SP	12	09	1933	15:22	4h	40N37	74W25	Plainfield, NJ
+Cantlay George	MI	02	08	1920	06:50	10h30	21N19	157W52	Honolulu, HI
+Cantwell Robert	WR	31	01	1908	18:00	8h	47N55	117W49	Little Falls, WA
+Carey Philip	AC	15	07	1925	10:24	4h	40N53	74W3	Hackensack, NJ
+Carpenter Kenneth	SP	19	04	1913	10:00	8h	33N54	118W13	Compton, CA
+Carpenter Scott	MI	01	05	1925	06:45	7h	40N1	105W17	Boulder, CO
+Carr Gerald	MI	22	08	1932	09:30	7h	39N44	104W59	Denver, CO
+Carradine David	AC	08	12	1936	12:00	8h	34N6	118W21	Hollywood, CA
+Carroll Julian	PO	16	04	1931	08:00	6h	37N5	88W37	Paducah, KY
+Carter James	SP	15	12	1923	01:00	5h	33N34	81W43	Aiken, SC
+Cary William	PO	27	11	1910	02:00	6h	39N58	83W0	Columbus, OH
+Cash Rosalind	AC	31	12	1938	18:27	5h	39N21	74W27	Atlantic City, NJ
+Casper William	SP	24	06	1931	10:24	8h	32N43	117W9	San Diego, CA
+Cassady Howard	SP	02	03	1934	06:20	5h	39N58	83W0	Columbus, OH
+Catton Jack	MI	05	02	1920	05:30	8h	37N52	122W16	Berkeley, CA
+Caulfield Joan	AC	01	06	1922	08:02	4h	40N47	74W14	West Orange, NJ
+Cauthen Steve	SP	01	05	1960	20:43	6h	39N5	84W31	Covington, KY
+Cernan Eugene	MI	14	03	1934	02:33	6h	41N52	87W39	Chicago, IL
+Cerrudo Ronald	SP	04	02	1945	09:24	7h	37N27	122W10	Palo Alto, CA
+Chadwick Florence	SP	09	11	1918	19:25	8h	32N43	117W9	San Diego, CA
+Chamberlain Joseph	SC	24	08	1928	04:45	6h	38N58	92W44	Boonville, MO
+Chamberlain Owen	SC	10	07	1920	03:33	8h	37N47	122W25	San Francisco, CA
+Chamberlain Richard	AC	31	03	1934	18:20	8h	34N4	118W25	Beverly Hills, CA
+Chandler Otis	EX	23	11	1927	12:50	8h	34N4	118W15	Los Angeles, CA
+Channing Carol	AC	31	01	1921	21:00	8h	47N36	122W20	Seattle, WA
+Chaplin Geraldine	AC	31	07	1944	23:14	7h	34N1	118W29	Santa Monica, CA
+Chaplin Sydney	AC	31	03	1926	08:50	8h	34N4	118W15	Los Angeles, CA
+Chapman Kenneth	MI	30	07	1923	17:15	6h	40N0	96W21	Summerfield, KS
+Charbonnet Pierre	MI	22	12	1919	15:35	8h	37N47	122W25	San Francisco, CA
+Charles Ezzard	SP	07	07	1921	21:00	5h	33N57	83W59	Lawrenceville, GA
+Charney Jule	SC	01	01	1917	03:38	8h	37N47	122W25	San Francisco, CA
+Cheek James	XX	04	12	1932	14:30	5h	36N28	77W40	Roanoke Rapids, NC
+Cheney Dorothy	SP	01	09	1916	14:30	8h	34N4	118W15	Los Angeles, CA
+Chiles Lawton	PO	03	04	1930	17:25	5h	28N3	81W57	Lakeland, FL
+Chorzempa Daniel	AR	07	12	1944	13:45	5h	44N59	93W16	Minneapolis, MN
+Christman Thomas	MI	06	03	1922	02:15	8h	47N36	122W20	Seattle, WA
+Clanton Ralph	AC	11	09	1914	06:00	8h	36N44	119W47	Fresno, CA
+Clark Albert	MI	27	08	1913	19:50	10h30	21N30	158W4	Schof Barracks, HI
+Clark Eleanor	WR	06	07	1913	08:20	8h	34N4	118W15	Los Angeles, CA
+Clarke John	AR	06	06	1937	21:03	8h	44N4	121W19	Bend, OR
+Clausen Alden	EX	17	02	1923	02:00	6h	40N24	91W21	Hamilton, IL
+Clay Cassius	SP	17	01	1942	18:35	6h	38N15	85W46	Louisville, KY
+Clifford John	AR	12	06	1947	21:51	8h	34N6	118W21	Hollywood, CA
+Clooney Rosemary	AC	23	05	1928	02:30	5h	38N39	83W46	Maysville, KY
+Close Chuck	AC	05	07	1940	13:30	8h	47N51	121W58	Monroe, WA
+Coats Wendell	MI	28	07	1915	06:00	7h	40N37	103W13	Sterling, CO
+Coffin Robert	MI	15	06	1917	05:30	8h	48N46	122W29	Bellingham, WA
+Cohen Wilbur	PO	10	06	1913	09:40	6h	43N2	87W55	Milwaukee, WI
+Colby William	PO	04	01	1920	17:52	6h	44N57	93W6	St Paul, MN
+Collett Wayne	SP	20	10	1949	18:08	8h	34N4	118W15	Los Angeles, CA
+Collins Harold	MI	10	11	1924	21:30	6h	29N54	93W56	Port Arthur, TX
+Collins Judy	AC	01	05	1939	11:55	8h	47N36	122W20	Seattle, WA
+Combs Glen	SP	30	10	1946	16:10	6h	37N15	83W12	Hazard, KY
+Comer Anjanette	AC	07	08	1939	12:45	6h	31N54	96W43	Dawson, TX
+Conigliaro Tony	SP	07	01	1945	20:52	4h	42N25	71W1	Revers, MA
+Connally John	PO	27	02	1917	02:00	6h	29N8	98W10	Floresville, TX
+Connell Evan	WR	17	08	1924	22:25	6h	39N6	94W35	Kansas City, MO
+Connell Jane	AC	27	10	1925	07:35	8h	37N49	122W16	Oakland, CA
+Conner Bruce	AR	18	11	1933	04:35	6h	38N22	97W40	Mc Pherson, KS
+Connick Robert	SC	29	07	1917	10:30	8h	40N47	124W9	Eureka, CA
+Connolly Maureen	SP	17	09	1934	12:07	8h	32N43	117W9	San Diego, CA
+Convy Bert	AC	23	07	1934	16:15	6h	38N37	90W12	St Louis, MO
+Coogan Jackie	AC	26	10	1914	03:00	8h	34N4	118W15	Los Angeles, CA
+Cooley Denton	SC	22	08	1920	04:30	6h	29N46	95W22	Houston, TX
+Coolidge Clark	WR	26	02	1939	07:48	5h	41N49	71W24	Providence, RI
+Cooper Damon	MI	27	04	1919	23:55	5h	37N42	85W52	Elizabethtown, KY
+Cooper Jane	WR	09	10	1924	09:15	5h	39N21	74W27	Atlantic City, NJ
+Cooper Kenneth	MI	12	11	1923	05:20	6h	39N22	94W55	Fort Leavenworth, KS
+Coppola Francis	AC	07	04	1939	01:38	5h	42N20	83W3	Detroit, MI
+Corbin Thomas	MI	14	01	1917	04:30	5h	35N33	77W58	Fremont, NC
+Cosell Howard	AC	25	03	1920	14:15	5h	36N6	80W15	WinstonSalem, NC
+Coulette Henri	WR	11	11	1927	04:00	8h	34N4	118W15	Los Angeles, CA
+Counsilman James	SP	28	12	1920	10:30	6h	33N31	86W48	Birmingham, AL
+Courtney Tom	SP	17	08	1933	01:35	4h	40N44	74W10	Newark, NJ
+Cowen Ronald	WR	15	09	1944	08:50	5h	39N6	84W31	Cincinnati, OH
+Cowens David	SP	25	10	1948	04:28	5h	39N5	84W30	Newport, KY
+Cox Allan	SC	17	12	1926	01:50	8h	33N46	117W52	Santa Ana, CA
+Crain Jeanne	AC	25	05	1925	17:00	8h	34N54	117W1	Barstow, CA
+Cranston Alan	PO	19	06	1914	07:00	8h	37N27	122W10	Palo Alto, CA
+Crenna Richard	AC	30	11	1927	16:14	8h	34N4	118W15	Los Angeles, CA
+Crippen Robert	MI	11	09	1937	14:45	6h	30N5	94W6	Beaumont, TX
+Cristol Stanley	SC	14	06	1916	11:30	6h	41N52	87W39	Chicago, IL
+Cronin Joseph	SP	12	10	1906	12:00	8h	37N47	122W25	San Francisco, CA
+Cross Richard	MI	04	06	1920	14:00	6h	38N37	90W12	St Louis, MO
+Crossfield Albert	SC	02	10	1921	08:45	8h	37N52	122W16	Berkeley, CA
+Csonka Lawrence	SP	25	12	1946	05:53	5h	41N10	81W26	Stow, OH
+Culp Robert	AC	16	08	1930	23:16	8h	37N49	122W16	Oakland, CA
+Cummings Constance	AC	15	05	1910	07:48	8h	47N36	122W20	Seattle, WA
+Cunningham Sam	SP	15	08	1950	03:24	8h	34N25	119W42	Santa Barbara, CA
+Curtis Ann	SP	06	03	1926	23:59	8h	37N47	122W25	San Francisco, CA
+Curtis Issac	SP	20	10	1950	08:19	8h	33N46	117W52	Santa Ana, CA
+Curtis Keene	AC	15	02	1923	18:34	7h	40N45	111W53	Salt Lake City, UT
+Da Silva Howard	AC	04	05	1909	06:00	6h	41N30	81W42	Cleveland, OH
+Dahl Arlene	AC	11	08	1925	04:10	6h	44N59	93W16	Minneapolis, MN
+Dale Carroll	SP	24	04	1938	04:40	5h	36N59	82W35	Wise, VA
+Dallessandro Joe	AC	31	12	1948	15:00	6h	30N25	87W13	Pensacola, FL
+Daly James	AC	23	10	1918	13:30	5h	44N23	89W49	W Rapids, WI
+Dandridge Bob	SP	15	11	1947	13:25	5h	37N33	77W27	Richmond, VA
+Daniels John	EX	28	10	1921	22:20	6h	44N57	93W6	St Paul, MN
+Danton J	XX	05	07	1908	16:15	8h	37N27	122W10	Palo Alto, CA
+Dauben William	SC	06	11	1919	23:10	6h	39N58	83W0	Columbus, OH
+Davenport Willie	SP	08	06	1943	23:00	5h	31N48	85W58	Troy, AL
+Davies Richard	SP	29	10	1930	17:00	8h	34N9	118W9	Pasadena, CA
+Davies Thomas	MI	03	11	1914	17:28	5h	41N30	81W42	Cleveland, OH
+Davis Glen	SP	26	12	1924	06:40	8h	34N6	117W43	Claremont, CA
+Davis Harold	SP	05	01	1921	02:21	8h	36N40	121W39	Salinas, CA
+Davis Jack	SP	11	09	1930	06:15	6h	35N13	101W50	Amarillo, TX
+Davis Miles	AR	25	05	1926	05:00	6h	38N53	90W10	Alton, IL
+Davis Otis	SP	12	07	1932	08:00	6h	33N12	87W34	Tuscaloosa, AL
+Davis Ronald	AR	29	06	1937	02:45	8h	34N1	118W29	Santa Monica, CA
+Dawson Leonard	SP	20	06	1935	22:30	5h	40N55	81W6	Alliance, OH
+Day Doris	AC	03	04	1922	16:30	6h	39N6	84W31	Cincinnati, OH
+Day Laraine	AC	13	10	1920	14:50	7h	40N18	109W59	Roosevelt, UT
+De Andrea John	AR	24	11	1941	08:21	7h	39N44	104W59	Denver, CO
+De Busschere David	SP	16	10	1940	12:58	5h	42N20	83W3	Detroit, MI
+De Butts John	EX	10	04	1915	02:45	5h	36N4	79W48	Greensboro, NC
+De Gaetani Jan	AR	10	07	1933	21:43	5h	40N48	81W32	Massillon, OH
+De Haven Gloria	AC	23	07	1925	19:31	8h	34N4	118W15	Los Angeles, CA
+De Lavallade Carmen	AR	06	03	1931	02:40	8h	34N4	118W15	Los Angeles, CA
+De Poix Vincent	MI	13	08	1916	15:55	8h	34N4	118W15	Los Angeles, CA
+Deane John	MI	08	06	1919	16:23	7h	37N47	122W25	San Francisco, CA
+Dee Frances	AC	26	11	1907	03:00	8h	34N4	118W15	Los Angeles, CA
+Dee Sandra	AC	23	04	1942	05:35	4h	40N40	74W7	Bayonne, NJ
+Delford Brown Robert	AR	25	10	1930	11:15	7h	38N23	105W1	Portland, CO
+Dellums Ronald	PO	24	11	1935	19:24	8h	37N49	122W16	Oakland, CA
+Delorean John	EX	06	01	1925	12:00	5h	42N20	83W3	Detroit, MI
+Demarco Robert	SP	16	09	1938	10:25	4h	40N44	74W4	Jersey City, NJ
+Demont Richard	SP	21	04	1956	06:57	8h	37N47	122W25	San Francisco, CA
+Dempsey Tom	SP	12	01	1947	01:22	6h	43N2	87W55	Milwaukee, WI
+Dempster Kenneth	MI	25	09	1917	12:40	8h	38N56	119W45	Gardnerville, NV
+Den Boer James	WR	21	08	1937	15:52	6h	43N46	87W45	Sheboygan, WI
+Deutsch David	AR	08	08	1943	15:50	7h	34N4	118W15	Los Angeles, CA
+Devitt Edward	XX	05	05	1911	06:00	6h	44N57	93W6	St Paul, MN
+Dickey William	WR	15	12	1928	04:30	8h	48N46	122W29	Bellingham, WA
+Didion Joan	WR	05	12	1934	17:55	8h	38N35	121W29	Sacramento, CA
+Diebold John	EX	08	06	1926	00:50	4h	40N46	74W0	Weehawken, NJ
+Dillard Harrison	SP	08	07	1923	07:32	5h	41N30	81W42	Cleveland, OH
+Diller Phyllis	AC	17	07	1917	01:00	6h	40N44	84W6	Lima, OH
+Dillman Bredford	AC	14	04	1930	00:45	8h	37N47	122W25	San Francisco, CA
+Dillon John	MI	11	12	1919	06:15	8h	47N14	122W26	Tacoma, WA
+Dine James	AR	16	06	1935	14:24	5h	39N6	84W31	Cincinnati, OH
+Dixon Frank	SC	09	03	1920	08:00	6h	44N57	93W6	St Paul, MN
+Dixon Thomas	EX	15	03	1916	15:30	6h	36N10	86W47	Nashville, TN
+Dizenzo Charles	WR	21	05	1938	14:07	4h	40N53	74W3	Hackensack, NJ
+Doell Richard	SC	28	06	1923	16:04	8h	37N49	122W16	Dakland, CA
+Donahue Phil	AC	21	12	1935	11:25	5h	41N30	81W42	Cleveland, OH
+Donovan Hedley	EX	24	05	1914	10:00	6h	46N22	94W12	Brainerd, MN
+Doob Joseph	SC	27	02	1910	01:00	6h	39N6	84W31	Cincinnati, OH
+Douce William	EX	09	12	1919	22:00	6h	37N39	98W7	Kingman, KS
+Douglass Stephen	AC	27	09	1921	07:00	5h	40N23	82W29	Mount Vernon, OH
+Downs Hugh	AC	14	02	1921	17:15	6h	41N5	81W31	Akron, OH
+Dreisezun Abraham	MI	02	10	1920	18:00	6h	39N6	94W35	Kansas City, MO
+Drell Sidney	SC	13	09	1926	04:07	4h	39N21	74W27	Atlantic City, NJ
+Drysoale Don	SP	23	07	1936	09:10	8h	34N11	118W26	Van Nuys, CA
+Du Pont Pierre	PO	22	01	1935	12:31	5h	39N45	75W33	Wilmington, DE
+Duerk Alene	MI	29	03	1920	01:15	6h	41N17	84W22	Defiance, OH
+Duke Charles	MI	03	10	1935	02:54	5h	35N13	80W51	Charlotte, NC
+Dullea Keir	AC	30	05	1936	02:14	5h	41N30	81W42	Cleveland, OH
+Duncan Charles	EX	09	09	1926	23:38	6h	29N46	95W22	Houston, TX
+Duncan Charles	MI	07	12	1911	09:45	6h	37N53	84W34	Nicholasville, KY
+Duncan Sandy	AC	20	02	1946	08:34	6h	32N9	94W48	Henderson, TX
+Dunlap Robert	MI	19	10	1920	19:30	6h	41N7	90W50	Abington, IL
+Dunlop John	PO	05	07	1914	08:15	8h	38N44	120W48	Placerville, CA
+Dunn John	MI	22	07	1925	20:37	8h	34N4	118W15	Los Angeles, CA
+Dupont Rene	MI	21	11	1919	04:50	8h	34N4	118W15	Los Angeles, CA
+Duquemin Gordon	MI	03	01	1924	10:45	6h	43N2	87W55	Milwaukee, WI
+Dussault Nancy	AC	30	06	1936	13:30	6h	30N25	87W13	Pensacola, FL
+Duvall Robert	AC	30	09	1929	17:10	8h	32N43	117W9	San Diego, CA
+Dwyer Ross	MI	20	07	1919	06:35	10h30	21N19	157W52	Honolulu, HI
+Eagleburger Lawrence	PO	01	08	1930	18:32	6h	43N2	87W55	Milwaukee, WI
+Eagleton Thomas	PO	04	09	1929	02:50	6h	38N37	90W12	St Louis, MO
+Eastman Ben	SP	09	07	1911	19:00	8h	37N35	122W21	Burlingame, CA
+Eastwood Clinton	AC	31	05	1930	17:35	8h	37N47	122W25	San Francisco, CA
+Eaton Charles	WR	25	06	1916	19:00	5h	36N6	80W15	WinstonSalem, NC
+Economou George	WR	24	09	1934	08:00	7h	47N30	111W17	Great Falls, MT
+Eddy Don	AR	04	11	1944	21:30	7h	33N47	118W11	Long Beach, CA
+Edmundson James	MI	18	06	1915	21:00	8h	34N6	118W21	Hollywood, CA
+Egan Richard	AC	29	07	1921	21:00	8h	37N47	122W25	San Francisco, CA
+Ehrlich S	SC	04	05	1932	15:20	6h	44N59	93W16	Minneapolis, MN
+Ehrlichman John	PO	20	03	1925	23:35	8h	47N14	122W26	Tacoma, WA
+Eisele Donn	MI	23	06	1930	14:52	5h	39N58	83W0	Columbus, OH
+Eisenhower John	XX	03	08	1922	06:20	7h	39N44	104W59	Denver, CO
+Elder Lee	SP	14	07	1934	08:00	6h	32N47	96W49	Dallas, TX
+Eller Carl	SP	25	02	1942	03:18	4h	36N6	80W15	WinstonSalem, NC
+Elliott Frank	MI	02	12	1924	13:09	5h	35N47	80W53	Statesville, NC
+Ellis Jimmy	SP	24	02	1940	21:58	6h	38N15	85W46	Louisville, KY
+Ellis Richard	MI	19	07	1919	08:30	4h	38N33	75W34	Laurel, DE
+Ely Ron	AC	21	06	1938	08:10	6h	34N49	102W24	Hereford, TX
+Embry Wayne	SP	26	03	1937	10:55	5h	39N55	83W49	Springfield, OH
+Engle Joe	MI	26	08	1932	06:30	6h	38N55	97W13	Abilene, KS
+Engman Lewis	PO	06	01	1936	17:35	5h	42N58	85W40	Grand Rapids, MI
+Epperson Harold	MI	14	07	1923	12:00	5h	41N5	81W31	Akron, OH
+Esch Arthur	MI	31	01	1917	05:30	6h	40N42	89W25	Washington, IL
+Estes William	SC	17	06	1919	23:45	5h	44N59	93W16	Minneapolis, MN
+Etherington Edwin	EX	25	12	1924	03:35	5h	40N40	74W7	Bayonne, NJ
+Evans Andrew	MI	11	11	1918	11:00	5h	32N46	79W56	Charleston, SC
+Evans Daniel	PO	16	10	1925	06:40	8h	47N36	122W20	Seattle, WA
+Evans Harold	SC	19	02	1921	09:00	6h	36N43	86W35	Franklin, KY
+Evans Lee	SP	25	02	1947	12:40	8h	36N57	120W3	Madera, CA
+Evans Ronald	MI	10	11	1933	04:30	7h	39N47	101W48	St Francis, KS
+Everhart Rex	AC	13	06	1920	13:00	6h	40N47	87W44	Watseka, IL
+Everson William	WR	10	09	1912	08:30	8h	38N35	121W29	Sacramento, CA
+Exley Charles	EX	14	12	1929	03:55	5h	42N20	83W3	Detroit, MI
+Eyen Tom	AC	14	08	1940	12:40	5h	40N2	81W35	Cambridge, OH
+Fabares Shelley	AC	19	01	1944	04:25	7h	34N1	118W29	Santa Monica, CA
+Fabray Nanette	AC	27	10	1920	03:00	8h	32N43	117W9	San Diego, CA
+Faggs Hariwenta	SP	10	04	1932	15:30	5h	39N27	74W44	Mays Landing, NJ
+Fairchild John	EX	06	03	1927	05:55	5h	40N44	74W10	Newark, NJ
+Farner Donald	SC	02	05	1915	11:00	6h	44N18	91W43	Waumandee, WI
+Farrell Suzanne	AR	16	08	1945	05:00	5h	39N6	84W31	Cincinnati, OH
+Farrow Mia	AC	09	02	1945	11:27	7h	34N4	118W15	Los Angeles, CA
+Faver Dudley	MI	17	08	1916	15:00	6h	32N28	100W24	Sweatwater, TX
+Fegan Joseph	MI	21	12	1920	04:54	8h	34N4	118W15	Los Angeles, CA
+Feinstein Dianne	PO	22	06	1933	00:44	8h	37N47	122W25	San Francisco, CA
+Felker Clay	EX	02	10	1925	09:28	6h	38N37	90W12	St Louis, MO
+Felton Lester	SP	06	03	1929	21:45	5h	42N20	83W3	Detroit, MI
+Fernie John	AR	22	10	1945	17:23	6h	38N5	97W56	Hutchinson, KS
+Fery John	EX	16	02	1930	21:50	8h	48N46	122W29	Bellingham, WA
+Fidrych Mark	SP	14	08	1954	12:13	4h	42N16	71W48	Worcester, MA
+Field Sally	AC	06	11	1946	04:23	8h	34N9	118W9	Pasadena, CA
+Fine Jud	AR	20	11	1944	03:02	7h	34N4	118W15	Los Angeles, CA
+Fingers Rollis	SP	25	08	1946	03:20	4h	40N22	80W37	Steubenville, OH
+Fish Howard	MI	01	08	1923	03:00	6h	45N40	94W49	Melrose, MN
+Fisher Joel	AR	06	06	1947	08:52	4h	40N54	80W52	Salem, OH
+Flamson Richard	EX	02	02	1929	10:30	8h	34N4	118W15	Los Angeles, CA
+Flavin Joseph	EX	16	10	1928	20:15	6h	38N37	90W12	St Louis, MO
+Fleisher Leon	AR	23	07	1928	22:20	8h	37N47	122W25	San Francisco, CA
+Fleming Lawrence	MI	12	12	1922	14:00	6h	44N31	88W0	Green Bay, WI
+Fleming Peggy	SP	27	07	1948	15:39	7h	37N20	121W53	San Jose, CA
+Fleming Richard	MI	02	11	1917	05:30	6h	44N57	93W6	St Paul, MN
+Fletcher Allan	AC	19	07	1922	11:55	8h	37N47	122W25	San Francisco, CA
+Flood Curtis	SP	18	01	1938	20:30	6h	29N46	95W22	Houston, TX
+Fodor Eugene	AR	05	03	1950	06:20	7h	38N23	104W46	Turkey Creek, CO
+Fonville Charles	SP	27	04	1927	11:45	6h	33N31	86W48	Birmingham, AL
+Ford Henry	EX	04	09	1917	18:00	5h	42N20	83W3	Detroit, MI
+Ford Wendell	PO	08	09	1924	08:30	6h	37N46	87W7	Owensboro, KY
+Foreman George	SP	10	01	1949	21:15	6h	32N33	94W23	Marshall, TX
+Forrester Eugene	MI	17	04	1926	19:00	6h	36N6	86W8	Watertown, TN
+Fortunato Joseph	SP	28	03	1931	01:00	5h	40N19	80W37	Mingo Junction, OH
+Fosbury Dick	SP	06	03	1947	12:07	8h	45N32	122W37	Portland, OR
+Foster William	MI	17	02	1915	06:30	5h	41N30	81W42	Cleveland, OH
+Foxx Redd	AC	09	12	1922	01:12	6h	38N37	90W12	St Louis, MO
+Foyt Anthony	SP	16	01	1935	01:25	6h	29N46	95W22	Houston, TX
+Francis Sam	AR	25	06	1923	06:30	8h	37N34	122W19	San Mateo, CA
+Fratienne Linda	SP	02	08	1960	09:34	7h	34N14	118W33	Northridge, CA
+Frazier Joe	SP	17	01	1944	07:00	4h	34N42	80W47	Beaufort, SC
+Freeman David	SP	06	09	1920	19:25	8h	34N9	118W9	Pasadena, CA
+Freeman Orville	PO	09	05	1918	02:00	5h	44N59	93W16	Minneapolis, MN
+Fried Howard	AR	14	06	1946	09:17	5h	41N30	81W42	Cleveland, OH
+Friedan Betty	WR	04	02	1921	04:00	6h	40N42	89W36	Peoria, IL
+Fris Edward	MI	01	09	1921	12:30	6h	37N55	88W59	Orient, IL
+Froehlke Robert	PO	15	10	1922	04:10	6h	44N11	88W28	Neenah, WI
+Fry Shriley	SP	30	06	1927	12:35	5h	41N5	81W31	Akron, OH
+Fuchs Jim	SP	06	12	1927	23:20	6h	41N52	87W39	Chicago, IL
+Fujii Paul	SP	06	07	1940	12:30	10h30	21N19	157W52	Honolulu, HI
+Fullmer Donald	SP	21	02	1939	02:40	7h	40N37	111W57	West Jordan, UT
+Fullmer Gene	SP	21	07	1931	15:35	7h	40N37	111W57	West Jordan, UT
+Fulton William	MI	31	10	1919	12:00	8h	37N52	122W16	Berkeley, CA
+Gable Dan	SP	25	10	1948	06:10	6h	41N26	85W1	Waterloo, IA
+Gabriel Roman	SP	05	08	1940	22:05	5h	34N14	77W55	Wilmington, NC
+Gagne Verne	SP	26	02	1926	23:15	6h	44N59	93W16	Minneapolis, MN
+Galambos Robert	SC	20	04	1914	23:00	6h	41N28	82W11	Lorain, OH
+Gallo Frank	AR	13	01	1933	14:10	5h	41N39	83W33	Toledo, OH
+Galloway James	MI	10	08	1919	14:00	4h	35N8	82W56	Lake Toxaway, NC
+Galvin Robert	EX	09	10	1922	11:49	6h	44N40	90W10	Marshfield, WI
+Gardner Ava	AC	24	12	1922	19:10	5h	35N28	78W11	Boon Hill Township, NC
+Gardner John	PO	08	10	1912	21:00	8h	34N4	118W15	Los Angeles, CA
+Garner Peggy	AC	03	02	1932	09:40	5h	40N48	81W23	Canton, OH
+Garrels Robert	SC	24	08	1916	09:15	5h	42N20	83W3	Detroit, MI
+Garrett Francis	MI	07	04	1919	18:45	4h	34N51	82W24	Greenville, SC
+Garrett George	WR	11	06	1929	15:10	5h	28N33	81W23	Orlando, FL
+Garwin Richard	SC	19	04	1928	01:15	5h	41N30	81W42	Cleveland, OH
+Geiberger Allen	SP	01	09	1937	04:16	8h	40N11	122W15	Red Bluff, CA
+Geis Lawrence	MI	14	07	1916	21:00	6h	38N50	97W37	Salina, KS
+Gerstacker Carl	EX	06	08	1916	18:15	5h	41N30	81W42	Cleveland, OH
+Gersten Bernard	AC	30	01	1923	14:00	5h	40N44	74W10	Newark, NJ
+Gianelli John	SP	10	06	1950	11:49	8h	37N58	121W17	Stockton, CA
+Gibson Althea	SP	25	08	1927	09:00	5h	33N43	80W17	Silver, SC
+Gifford Frank	SP	16	08	1930	02:10	8h	34N1	118W29	Santa Monica, CA
+Gilhooly David	AR	15	04	1943	12:25	7h	38N54	121W4	Auburn, CA
+Gillen Stanley	EX	10	08	1911	14:00	6h	41N39	83W33	Toledo, OH
+Gilliam John	SP	07	08	1945	12:00	4h	34N12	82W10	Greenwood, SC
+Gilligan John	PO	22	03	1921	06:00	6h	39N6	84W31	Cincinnati, OH
+Gillingham Gale	SP	03	02	1944	15:52	5h	43N4	89W24	Madison, WI
+Gilruth Robert	PO	08	10	1913	14:00	6h	47N23	93W10	Nashwauk, MN
+Giraudo John	MI	02	10	1923	14:00	8h	34N25	119W42	Santa Barbara, CA
+Glaser Donald	SC	21	09	1926	23:30	5h	41N30	81W42	Cleveland, OH
+Gleason Andrew	SC	04	11	1921	23:50	8h	36N44	119W47	Fresno, CA
+Glenn John	MI	18	07	1921	15:00	4h	40N2	81W35	Cambridge, OH
+Goddard James	PO	24	04	1923	18:00	5h	40N55	81W6	Alliance, OH
+Godding George	MI	12	07	1920	16:00	6h	38N58	95W14	Lawrence, KS
+Goings Ralph	AR	09	05	1928	18:15	8h	39N54	122W10	Corning, CA
+Gold Herbert	WR	09	03	1924	09:45	5h	41N30	81W42	Cleveland, OH
+Goldberger Marvin	SC	22	10	1922	20:00	6h	41N52	87W39	Chicago, IL
+Gomes Harold	SP	22	08	1933	07:52	4h	41N49	71W24	Providence, RI
+Gonzales Richard	SP	09	05	1928	04:45	8h	34N4	118W15	Los Angeles, CA
+Good Robert	AC	21	05	1922	06:00	6h	46N29	93W58	Grosby, MN
+Goodman Julian	EX	01	05	1922	04:00	6h	37N0	85W55	Glasgow, KY
+Goodson Mark	AR	24	01	1915	01:25	8h	38N35	121W29	Sacramento, CA
+Gordon Richard	MI	05	10	1929	12:45	8h	47N36	122W20	Seattle, WA
+Goulian Mehran	SC	31	12	1929	07:00	5h	40N46	74W0	Weehawken, NJ
+Graebner Clark	SP	04	11	1943	18:20	5h	41N30	81W42	Cleveland, OH
+Graham Dan	AR	31	03	1942	02:21	5h	40N7	88W12	Urbana, IL
+Graham Gordon	MI	16	02	1918	00:05	7h	38N1	107W40	Ouray, CO
+Graham Otto	SP	06	12	1921	01:50	6h	42N22	87W50	Waukegan, IL
+Graham William	XX	07	11	1918	15:30	5h	35N13	80W51	Charlotte, NC
+Gramm Donald	AR	26	02	1927	05:45	6h	43N2	87W55	Milwaukee, WI
+Granger Farley	AC	01	07	1925	23:35	8h	37N20	121W53	San Jose, CA
+Grant Verne	SC	17	10	1917	18:35	8h	37N47	122W25	San Francisco, CA
+Graves Peter	AC	18	03	1926	09:55	6h	44N59	93W16	Minneapolis, MN
+Gray Harry	SC	14	11	1935	23:30	6h	36N50	86W32	Woodburn, KY
+Grayson Kathryn	AC	09	02	1922	13:30	5h	36N6	80W15	WinstonSalem, NC
+Greene Joe	SP	25	09	1946	05:00	6h	31N6	97W21	Temple, TX
+Greenfield James	EX	16	07	1924	11:07	5h	41N30	81W42	Cleveland, OH
+Gregory Cynthia	AR	08	07	1946	06:32	8h	34N4	118W15	Los Angeles, CA
+Grelle Jim	SP	30	09	1936	05:45	8h	45N32	122W37	Portland, OR
+Grey Joel	AC	11	04	1932	21:52	5h	41N30	81W42	Cleveland, OH
+Gribble William	MI	24	05	1917	11:25	6h	46N27	90W9	Ironwood, MI
+Grier Rosey	SP	14	07	1932	00:00	6h	31N46	84W48	Cuthbert, GA
+Griffin Archie	SP	21	08	1954	17:00	5h	39N58	83W0	Columbus, OH
+Griffith Thomas	EX	30	12	1915	06:00	8h	47N14	122W26	Tacoma, WA
+Grimes Gary	AC	02	06	1955	21:49	7h	37N47	122W25	San Francisco, CA
+Grizzard George	AC	01	04	1928	01:50	5h	35N28	77W40	Roanoke Rapids, NC
+Gronouski John	PO	26	10	1919	22:20	6h	45N39	88W10	Dunbar, WI
+Groza Alex	SP	07	10	1926	21:45	5h	40N6	80W44	Martins Ferry, OH
+Groza Louis	SP	25	01	1924	02:15	5h	40N6	80W44	Martins Ferry, OH
+Guillen Ambrosio	MI	07	12	1929	18:00	7h	37N59	103W33	La Junta, CD
+Guinn Dick	MI	27	03	1918	23:45	6h	31N46	95W38	Palestine, TX
+Gullans Charles	WR	05	05	1929	03:40	6h	44N59	93W16	Minneapolis, MN
+Gunn Moses	AC	02	10	1929	23:00	6h	38N37	90W12	St Louis, MO
+Guthrie John	MI	20	12	1921	03:45	5h	40N42	75W12	Phillipsburg, NJ
+Gutowski Robert	SP	25	04	1935	00:40	8h	33N45	118W19	San Pedro, CA
+Haack Robert	PO	15	02	1917	08:40	6h	43N3	88W0	Wauwatose, WI
+Haddon William	PO	24	05	1926	03:03	4h	40N46	74W14	Orange, NJ
+Hadl John	SP	15	02	1940	02:04	6h	38N58	95W14	Lawrence, KS
+Haldeman Harry	PO	27	10	1926	03:30	8h	34N4	118W15	Los Angeles, CA
+Haley John	EX	24	07	1929	10:00	5h	41N5	81W31	Akron, OH
+Hall Charles	MI	05	10	1924	03:55	10h30	21N19	157W52	Honolulu, HI
+Hall Floyd	EX	04	04	1916	13:30	7h	38N5	102W37	Lamar, CO
+Hall James	WR	21	07	1918	11:30	5h	39N18	83W54	Midland, OH
+Hall Susan	AR	19	03	1943	04:30	7h	38N4	122W48	Point Rayes Station, CA
+Hamburger Christian	SP	13	08	1941	13:42	5h	35N9	79W0	Fort Bragg, NC
+Hamill Dorothy	SP	26	07	1956	21:18	5h	41N52	87W39	Chicago, IL
+Hamilton Colin	MI	06	03	1924	08:30	5h	35N39	78W28	Clayton, NC
+Hamlet James	MI	13	12	1921	15:30	5h	40N55	81W6	Alliance, OH
+Hammond Kathy	SP	02	11	1951	06:57	8h	38N35	121W29	Sacramanto, CA
+Hampson Robert	EX	28	05	1917	23:32	8h	33N59	117W22	Riverside, CA
+Hamrol Lloyd	AR	25	09	1937	12:18	8h	37N47	122W25	San Francisco, CA
+Hand Lloyd	EX	31	01	1929	11:00	6h	38N53	90W10	Alton, IL
+Hanley William	WR	22	10	1931	20:45	5h	41N28	82W11	Lorain, OH
+Hansberger R	EX	01	06	1920	03:00	6h	43N37	95W36	Worthington, MN
+Hansen Fred	SP	29	12	1940	03:50	6h	29N6	97W17	Cuero, TX
+Hanson Duane	AR	17	01	1925	16:00	6h	45N53	95W22	Alexandria, MN
+Hard Darlene	SP	06	01	1936	23:32	8h	34N4	118W15	Los Angeles, CA
+Hardin Ernest	MI	25	12	1916	23:00	6h	37N30	87W52	Wheatcroft, KY
+Harker David	SC	19	10	1906	15:00	8h	37N47	122W25	San Francisco, CA
+Harrelson Ken	SP	04	09	1941	20:30	5h	34N45	82W2	Woodruff, SC
+Harris Archie	SP	03	07	1918	04:30	4h	37N38	76W35	Urbanna, VA
+Harris Chauncy	SC	31	01	1914	21:10	7h	41N44	111W50	Logan, UT
+Harris Franco	SP	07	03	1950	03:50	5h	40N0	74W35	Fort Dix, NJ
+Harris Patricia	PO	31	05	1924	03:40	6h	39N29	88W23	Mattoon, IL
+Harrison Jim	WR	11	12	1937	11:00	5h	44N40	84W43	Grayling, MI
+Hart Doris	SP	20	06	1925	07:00	6h	38N37	90W12	St Louis, MO
+Hartnack Carl	EX	09	04	1916	09:00	8h	34N4	118W15	Los Angeles, CA
+Hartzog George	PO	17	03	1920	14:00	5h	32N55	80W40	Colleton County, SC
+Hasler Arthur	SC	05	01	1908	13:00	7h	40N24	111W51	Lehi, UT
+Hauge Gabriel	EX	07	03	1914	18:40	6h	46N53	96W19	Hawley, MN
+Hauge Louis	MI	12	12	1924	16:00	6h	47N18	96W31	Ada, MN
+Havlicek John	SP	08	04	1940	08:40	5h	40N6	80W44	Martins Ferry, OH
+Hawkins William	MI	19	04	1914	06:00	6h	37N50	94W42	Fort Scott, KS
+Hayes Bob	SP	20	12	1942	15:29	4h	30N20	81W39	Jacksonville, FL
+Hayes Elvin	SP	11	11	1945	22:00	6h	32N28	91W45	Rayville, LA
+Hayward Thomas	MI	03	05	1924	14:20	8h	40N52	124W5	Glendale, CA
+Hearnes Warren	PO	24	07	1923	09:10	6h	41N30	90W31	Moline, IL
+Heffner Grover	MI	25	03	1919	23:00	8h	47N36	122W20	Seattle, WA
+Hefner Hugh	EX	09	04	1926	16:20	6h	41N52	87W39	Chicago, IL
+Heinsohn Thomas	SP	26	08	1934	13:31	4h	40N45	74W2	Union City, NJ
+Heiser Rolland	MI	25	04	1925	12:30	6h	39N58	83W0	Columbus, OH
+Held Franklin	SP	25	10	1927	08:00	8h	34N4	118W15	Los Angeles, CA
+Heldman Julie	SP	08	12	1945	06:32	8h	37N52	122W16	Berkeley, CA
+Helms Jesse	PO	18	10	1921	11:00	5h	34N59	80W33	Monroe, NC
+Heltzer Harry	EX	22	08	1911	08:00	6h	39N6	84W31	Cincinnati, OH
+Hencken John	SP	29	05	1954	08:43	7h	34N1	118W25	Culver City, CA
+Henderson Horace	EX	30	07	1917	10:00	5h	36N20	78W25	Henderson, NC
+Heppel Leon	SC	20	10	1912	06:00	7h	40N42	111W58	Granger, UT
+Herman Woody	AR	16	05	1913	12:30	6h	43N2	87W55	Milwaukee, WI
+Herschbach Dudley	SC	18	06	1932	02:55	8h	37N20	121W53	San Jose, CA
+Hertz Roy	SC	19	06	1909	02:00	6h	41N30	81W42	Cleveland, OH
+Hewitt Geof	WR	01	09	1943	20:40	4h	40N48	74W12	Glen Ridge, NJ
+Hewitt William	EX	09	08	1914	22:30	8h	37N47	122W25	San Francisco, CA
+Hickman Derryl	AC	28	07	1931	05:48	8h	34N6	118W21	Hollywood, CA
+Hickman Dwayne	AC	18	05	1934	21:00	8h	34N4	118W15	Los Angeles, CA
+Higgins Hugh	MI	16	02	1919	03:15	6h	39N58	83W0	Columbus, OH
+Hiken Gerald	AC	23	05	1927	16:00	6h	43N2	87W55	Milwaukee, WI
+Hildreth James	MI	19	07	1920	12:20	8h	39N9	123W13	Ukiah, CA
+Hill Clarence	MI	18	10	1920	05:21	5h	40N43	74W18	Short Hills, NJ
+Hill James	MI	22	10	1923	04:30	6h	39N43	82W36	Lancaster, OH
+Hill L Gordon	MI	15	09	1922	01:00	5h	33N30	80W52	Orangeburg, SC
+Hill Thomas	SP	17	11	1949	01:26	6h	29N58	90W4	New Orleans, LA
+Hillenbrand Martin	PO	01	08	1915	03:00	6h	41N6	80W39	Youngstown, OH
+Hiller Stanley	EX	15	11	1924	23:10	8h	37N47	122W25	San Francisco, CA
+Hills Carla	PO	03	01	1934	12:32	8h	34N4	118W15	Los Angeles, CA
+Hills Roderick	PO	09	03	1931	13:35	8h	47N36	122W20	Seattle, WA
+Hirsch Elroy	SP	17	06	1923	22:45	6h	43N3	88W0	Wauwatosa, WI
+Hoban Richard	MI	29	03	1922	08:10	6h	38N37	90W12	St Louis, MO
+Hodgson James	PO	03	12	1915	02:20	6h	44N56	96W3	Dawson, MN
+Hodson Kenneth	MI	27	04	1913	14:00	6h	37N10	94W42	Crestline, KS
+Hoffman Carl	MI	24	12	1919	21:00	6h	41N17	96W1	Omaha, NE
+Hoffman Dustin	AC	08	08	1937	17:07	8h	34N4	118W15	Los Angeles, CA
+Hoffman Michael	XX	13	06	1915	18:30	8h	35N40	80W29	Salisbury, CA
+Holbrook Hal	AC	17	02	1925	03:16	5h	41N30	81W42	Cleveland, OH
+Holladay Terry	SP	28	11	1955	08:26	5h	35N13	80W51	Charlotte, NC
+Holley Robert	SC	28	01	1922	23:00	6h	40N7	88W12	Urbana, IL
+Hollings Ernest	PO	01	01	1922	14:30	5h	32N46	79W56	Charleston, SC
+Hollingsworth James	MI	24	03	1918	05:00	6h	33N22	97W10	Sanger, TX
+Hollingwort Keith	AR	21	04	1937	15:25	5h	41N49	71W24	Providence, RI
+Holloway James	MI	23	09	1922	13:55	5h	32N46	79W56	Charleston, SC
+Holmquist Carl	MI	18	11	1919	10:00	7h	40N45	111W53	Salt Lake City, UT
+Holshouser James	PO	08	10	1934	16:33	5h	36N13	81W41	Boons, NC
+Hoopman Harold	EX	22	07	1920	13:00	6h	39N4	98W32	Lucas, KS
+Hoover Herbert	EX	23	04	1918	16:00	5h	40N48	81W23	Canton, OH
+Hopper Dennis	AC	17	05	1936	20:45	6h	37N45	100W1	Dodge City, KS
+Horner Richard	EX	24	10	1917	04:00	6h	46N37	92W23	Wrenshall, MN
+Hornig Donald	SC	17	03	1920	17:05	6h	43N2	87W55	Milawaukee, WI
+Hornung Paul	SP	23	12	1935	08:55	6h	38N15	85W46	Louisville, KY
+Houser Jerry	AC	14	07	1952	20:08	7h	34N4	118W15	Los Angeles, CA
+Houston James	SP	03	11	1937	09:00	5h	40N48	81W32	Massillon, OH
+Howard Frank	SP	08	08	1936	11:00	5h	39N58	83W0	Columbus, OH
+Howard Kenneth	AC	28	03	1944	11:21	7h	32N48	115W34	El Centro, CA
+Howell Francis	SC	27	11	1925	20:45	6h	39N6	94W35	Kansas City, MO
+Howell John	EX	07	02	1925	09:05	6h	36N10	86W47	Nashville, TN
+Huddleston Walter	PO	15	04	1926	07:30	6h	36N58	82W59	Cumberland County, KY
+Hudson Eugene	MI	06	10	1921	02:15	8h	34N4	118W15	Los Angeles, CA
+Hudson Lou	SP	11	07	1944	08:10	4h	36N4	79W48	Greensboro, NC
+Huebner Robert	SC	23	02	1914	08:15	6h	39N6	84W31	Cincinnati, OH
+Hufstedler Shirley	PO	24	08	1925	06:30	7h	39N44	104W59	Denver, CO
+Hugo Richard	WR	21	12	1923	20:00	8h	47N36	122W20	Seattle, WA
+Hugues Emmet	PO	26	12	1920	06:10	5h	40N44	74W10	Newark, NJ
+Hunt James	PO	16	05	1937	04:16	5h	36N4	79W48	Greensboro, NC
+Husmann Ron	AC	30	06	1937	12:25	6h	42N16	89W6	Rockford, IL
+Hutchison Clyde	SC	05	05	1913	10:30	6h	40N55	81W6	Alliance, OH
+Hutton Lauren	AC	17	11	1943	22:45	4h	32N46	79W56	Charleston, SC
+Ignatius Paul	EX	11	11	1920	13:05	8h	34N4	118W15	Los Angeles, CA
+Inge William	WR	03	05	1913	15:10	6h	37N14	95W42	Independence, KS
+Inouye Daniel	PO	07	09	1924	11:00	10h30	21N19	157W52	Honolulu, HI
+Ireland Clarc	MI	08	06	1920	08:45	6h	40N42	89W36	Peoria, IL
+Irving John	WR	02	03	1942	12:11	4h	42N59	70W57	Exeter, NH
+Irwin Robert	AR	12	09	1928	21:45	8h	33N47	118W11	Long Beach, CA
+Jackson Henry	PO	31	05	1912	17:00	8h	47N59	122W12	Everett, WA
+Jackson Maynard	PO	23	03	1938	03:00	6h	32N47	96W49	Dallas, TX
+Jackson Shirley	WR	14	12	1916	07:15	8h	37N47	122W25	San Francisco, CA
+Jacobson Alfred	EX	12	11	1919	20:30	7h	39N21	112W35	Delta, UT
+James Daniel	MI	11	02	1920	05:37	6h	30N25	87W13	Pensacola, FL
+Janov Arthur	XX	21	08	1924	21:18	8h	34N4	118W15	Los Angeles, CA
+Jarman Claude	AC	27	09	1934	12:03	6h	36N10	86W47	Nashville, TN
+Jarman Franklin	EX	10	11	1931	13:00	6h	36N10	86W47	Nashville, TN
+Jeffreys Anne	AC	26	01	1923	14:15	5h	35N23	77W59	Goldsboro, NC
+Jenkins David	SP	29	06	1936	17:00	5h	41N5	81W31	Akron, OH
+Jenkins Paul	AR	12	07	1923	00:45	6h	39N6	94W35	Kansas City, MO
+Jens Salome	AC	08	05	1935	06:15	6h	43N2	87W55	Milwaukee, WI
+Jensen Arthur	SC	24	08	1923	05:20	8h	32N43	117W9	San Diego, CA
+Jeter Robert	SP	09	05	1937	08:00	5h	34N43	81W37	Union, SC
+Johansen Eivind	MI	07	03	1927	06:00	5h	32N46	79W56	Charleston, SC
+Johansen Julian	MI	17	03	1923	04:30	5h	32N46	79W56	Charleston, SC
+Johnson Cornelius	SP	21	08	1913	02:20	8h	34N4	118W15	Los Angeles, CA
+Johnson Don	SP	19	05	1940	02:20	6h	40N29	86W8	Kokomo, IN
+Johnson Gerald	MI	10	07	1919	10:36	5h	38N32	84W50	Owenton, KY
+Johnson Harold	SC	17	04	1921	13:10	6h	39N44	104W59	Denver, CO
+Johnson Patty	SP	15	04	1950	10:00	8h	32N43	117W9	San Diego, CA
+Johnson Ronald	WR	25	11	1935	15:30	6h	37N12	99W47	Ashland, KS
+Jones Deacon	SP	09	12	1938	20:00	5h	28N37	81W23	Eatonville, FL
+Jones Everett	WR	07	10	1934	05:15	5h	40N44	74W10	Newark, NJ
+Jones Jack	AC	14	01	1938	02:48	8h	34N6	118W21	Hollywood, CA
+Jones Thomas	EX	21	07	1920	11:20	8h	34N4	117W45	Pomona, CA
+Jordan Henry	SP	26	01	1935	17:10	5h	36N41	77W32	Emporia, VA
+Jordan Payton	SP	19	03	1917	02:50	8h	33N58	118W3	Whittier, CA
+Jordan William	PO	21	09	1944	18:01	4h	35N13	80W51	Charlotte, NC
+Jovanovich William	EX	06	02	1920	02:30	7h	39N59	105W8	Louisville, CO
+Judelson David	EX	22	11	1928	01:28	5h	40N53	74W3	Hackensack, NJ
+Judge Thomas	PO	12	10	1934	15:35	7h	46N36	112W2	Helena, MT
+Jurgensen Christian	SP	23	08	1934	05:45	5h	34N14	77W55	Wilmington, NC
+Justice Charles	SP	18	05	1924	08:00	5h	35N36	82W33	Asheville, NC
+Kael Pauline	XX	19	06	1919	14:00	7h	38N14	122W39	Petaluma, CA
+Kahn Madeline	AC	29	09	1942	18:07	4h	42N23	71W2	Chelsea, MA
+Kaltenbach Stephen	AR	05	05	1940	22:30	5h	42N19	85W11	Battle Creek, MI
+Kaprow Allan	AR	23	08	1927	10:19	4h	39N21	74W27	Atlantic City, NJ
+Kastenmeier Robert	PO	24	01	1924	04:00	6h	43N28	88W50	Beaver Dam, WI
+Kauffman Craig	AR	31	03	1932	23:30	8h	34N8	118W12	Eagle Rock, CA
+Kauffman Draper	MI	04	08	1911	14:00	8h	32N43	117W9	San Diego, CA
+Keach Stacy	AC	02	06	1941	19:15	5h	32N5	81W6	Savannah, GA
+Keating Stephen	EX	06	05	1918	14:10	5h	45N34	92W26	Graceville, MN
+Keaton Diane	AC	05	01	1946	02:49	8h	34N4	118W15	Los Angeles, CA
+Keith Brian	AC	14	11	1921	02:00	5h	40N40	74W7	Bayonne, NJ
+Keller Robert	MI	09	02	1920	07:00	8h	37N49	122W16	Oakland, CA
+Kellerman Sally	AC	02	06	1937	07:37	8h	33N47	118W11	Long Beach, CA
+Kelly John	MI	08	07	1928	00:15	5h	41N6	80W39	Youngstown, OH
+Kemp Jack	PO	13	07	1935	03:15	8h	34N4	118W15	Los Angeles, CA
+Kendall Donald	EX	16	03	1921	07:00	8h	48N5	123W6	Sequim, WA
+Kennedy Eugene	SC	04	09	1919	11:30	5h	41N52	87W39	Chicago, IL
+Kennedy Xj	WR	21	08	1929	03:45	4h	40N53	74W35	Dover, NJ
+Kerkorian Kirk	EX	06	06	1917	12:00	8h	36N44	119W47	Fresno, CA
+Kert Larry	AC	05	12	1930	11:10	8h	34N4	118W15	Los Angeles, CA
+Kerwin Joseph	MI	19	02	1932	17:49	6h	41N53	87W47	Oak Park, IL
+Kesey Ken	WR	17	09	1935	16:24	7h	37N59	103W33	La Junta, CO
+Kidd Billy	SP	13	04	1943	11:55	4h	44N29	73W12	Burlington, VT
+Kidd Isaac	MI	14	08	1919	20:20	4h	41N30	81W42	Cleveland, OH
+Kidd John	MI	15	04	1919	09:45	4h	41N30	81W42	Cleveland, OH
+Kiefer Adolph	SP	27	06	1918	14:30	5h	41N52	87W39	Chicago, IL
+Kilmer William	SP	05	09	1939	23:15	6h	39N3	95W40	Topeka, KS
+King Billie	SP	22	11	1943	11:45	8h	33N47	118W11	Long Beach, CA
+King Jerome	MI	14	07	1919	08:30	4h	41N6	80W39	Youngstown, OH
+King Leamon	SP	13	02	1936	23:40	8h	36N13	119W21	Tulare, CA
+King Robert	SP	20	06	1906	11:00	8h	34N4	118W15	Los Angeles, CA
+Kirk Claude	PO	07	01	1926	01:50	8h	34N7	117W19	San Bernardino, CA
+Kirkendall James	MI	19	02	1920	09:45	6h	41N17	96W1	Omaha, NE
+Kirkland Joseph	PO	12	03	1922	00:00	5h	34N16	80W36	Camden, SC
+Kitt Eartha	AC	26	01	1928	04:00	5h	33N37	81W6	North, SC
+Klemmer Grover	SP	16	03	1921	18:57	8h	37N47	122W25	San Francisco, CA
+Knebel Fletcher	WR	01	10	1911	20:15	6h	39N45	84W12	Dayton, OH
+Kneip Richard	PO	07	01	1933	13:40	6h	44N17	96W8	Tyler, MN
+Knievel Evel	SP	17	10	1938	14:40	7h	46N0	112W32	Butte, MT
+Knoepfle John	WR	04	02	1923	14:35	6h	39N6	84W31	Cincinnati, OH
+Knopoff Leon	SC	01	07	1925	21:33	8h	34N4	118W15	Los Angeles, CA
+Knott Bill	WR	17	02	1940	22:30	5h	42N21	83W1	Gratiot County, MI
+Knowles John	PO	23	05	1926	17:35	5h	41N52	87W39	Chicago, IL
+Knudsen Conrad	EX	03	10	1923	03:30	8h	47N14	122W26	Tacoma, WA
+Koch John	AR	18	08	1909	02:00	6h	41N39	83W33	Toledo, OH
+Kohner Susan	AC	11	11	1936	05:24	8h	34N4	118W15	Los Angeles, CA
+Kojis Donald	SP	15	07	1939	08:57	6h	43N2	87W55	Milwaukee, WI
+Kono Tom	SP	27	07	1930	02:00	8h	38N35	121W29	Sacramento, CA
+Koontz Elizabeth	PO	03	06	1919	23:15	4h	35N40	80W29	Salisbury, NC
+Kozloff Joyce	AR	14	12	1942	10:56	4h	40N3	74W38	Somerville, NJ
+Kraft Robert	SC	16	06	1927	03:50	8h	47N36	122W20	Seattle, WA
+Kramer Gerald	SP	23	01	1936	17:30	7h	47N19	106W55	Jordan, MT
+Kramer John	SP	01	08	1921	01:45	8h	36N10	115W9	Las Vegas, NV
+Kristofferson Kris	AC	22	06	1936	15:30	6h	25N54	97W30	Brownsville, TX
+Kroesen Frederick	MI	11	02	1923	20:55	5h	40N42	75W12	Phillipsburg, NJ
+Krol John	XX	26	10	1910	07:30	6h	41N30	81W42	Cleveland, OH
+Kucinich Dennis	PO	08	10	1946	17:53	5h	41N30	81W42	Cleveland, OH
+La Belle James	MI	22	11	1925	10:00	6h	45N3	93W15	Columbia Heights, MN
+Laing Robert	EX	01	11	1918	23:45	8h	47N36	122W20	Seattle, WA
+Laird Ron	SP	31	05	1938	05:51	6h	38N15	85W46	Louisville, KY
+Lamantia Philip	WR	23	10	1927	10:00	8h	37N47	122W25	San Francisco, CA
+Lamb Willis	SC	12	07	1913	00:45	8h	34N4	118W15	Los Angeles, CA
+Lambert Jack	SP	08	07	1952	10:00	4h	41N9	81W15	Ravenna, OH
+Lamm Richard	PO	08	08	1935	07:50	6h	43N4	89W24	Madison, WI
+Langland Joseph	WR	16	02	1917	05:30	6h	43N34	91W38	Spring Grove, MN
+Lanier Willie	SP	21	08	1945	00:40	4h	36N50	78W44	Clover, VA
+Larkin Arthur	EX	07	03	1917	03:40	6h	44N59	93W16	Minneapolis, MN
+Larkin Frederick	EX	28	12	1913	04:45	8h	47N36	122W20	Seattle, WA
+Larsen Arthur	SP	17	04	1925	02:00	8h	37N44	122W9	San Leandro, CA
+Law John	AC	07	09	1937	00:25	8h	34N6	118W21	Hollywood, CA
+Lawrence Carol	AC	05	09	1932	14:35	5h	41N54	87W52	Melrose Park, IL
+Layne Bobby	SP	19	12	1926	09:20	6h	32N47	96W49	Dallas, TX
+Lazarus Ralph	EX	30	01	1914	11:15	6h	39N58	83W0	Columbus, OH
+Le Blond Richard	EX	16	11	1920	15:25	6h	39N6	84W31	Cincinnati, OH
+Lebaron Edward	SP	07	01	1930	14:20	8h	37N58	122W32	San Rafael, CA
+Lebeau C	SP	09	09	1937	08:15	5h	39N52	83W27	London, OH
+Leber Walter	MI	12	09	1918	13:00	5h	38N37	90W12	St Louis, MO
+Lederberg Joshua	SC	23	05	1925	12:01	4h	40N48	74W12	Glen Ridge, NJ
+Lee Michele	AC	24	06	1942	01:25	7h	34N4	118W15	Los Angeles, CA
+Lee Robert	WR	15	10	1918	21:55	5h	41N22	82W9	Elyria, OH
+Lee Sammy	SP	01	08	1920	07:05	8h	36N44	119W47	Fresno, CA
+Leek Frederick	MI	12	10	1914	00:45	8h	37N58	121W17	Stockton, CA
+Leigh Janet	AC	06	07	1927	14:15	8h	37N18	120W29	Merced, CA
+Leighton Robert	SC	10	09	1919	09:15	4h	42N20	83W3	Detroit, MI
+Lekson John	MI	14	04	1917	10:00	6h	40N7	80W56	Fairpoint, OH
+Lema Anthony	SP	25	02	1934	20:14	8h	37N49	122W16	Oakland, CA
+Lemon Meadow	SP	25	04	1933	18:00	5h	34N0	81W14	Lexington, SC
+Lenz Rick	AC	21	11	1939	16:55	6h	39N48	89W39	Springfield, IL
+Levan Cj	MI	13	02	1923	07:50	6h	39N6	94W35	Kansas City, MO
+Levine James	AR	23	06	1943	17:33	4h	39N6	84W31	Cincinnati, OH
+Lewis David	EX	06	07	1917	05:00	5h	33N30	81W59	North Augusta, SC
+Lewis Henry	AR	16	10	1932	13:43	8h	34N4	118W15	Los Angeles, CA
+Lewis Homer	MI	01	02	1919	09:05	5h	35N36	82W33	Asheville, NC
+Lewis Jerry	AC	16	03	1926	12:15	5h	40N44	74W10	Newark, NJ
+Lewis Leo	MI	24	04	1921	10:00	6h	30N25	87W13	Pensacola, FL
+Lewis Roger	EX	11	01	1912	20:45	8h	34N4	118W15	Los Angeles, CA
+Lightner Lawrence	MI	13	10	1918	03:05	5h	41N43	81W15	Painesville, OH
+Lillehei Clarence	SC	23	10	1918	12:03	5h	44N59	93W16	Minneapolis, MN
+Lillehei Richard	SC	10	12	1927	01:11	6h	44N59	93W16	Minneapolis, MN
+Lilly Bob	SP	26	07	1939	10:00	6h	33N22	98W45	Olney, TX
+Lind Don	MI	18	05	1930	23:28	7h	40N37	111W54	Midvale, UT
+Lindgren Gerry	SP	09	03	1946	23:45	8h	47N40	117W24	Spokane, WA
+Lippold Richard	AR	03	05	1915	07:20	6h	43N2	87W55	Milwaukee, WI
+Lipscomb William	SC	09	12	1919	10:32	5h	41N30	81W42	Cleveland, OH
+Liquori Martin	SP	11	09	1949	17:16	4h	40N49	74W13	Montclair, NJ
+Littler Eugene	SP	21	07	1930	08:23	8h	32N43	117W9	San Diego, CA
+Logan Karen	SP	10	06	1949	00:51	8h	33N46	117W52	Santa Ana, CA
+Lolich Michael	SP	12	09	1940	19:04	8h	45N32	122W37	Portland, OR
+London Julie	AC	26	09	1926	18:00	8h	38N26	122W43	Santa Rosa, CA
+Long Robert	MI	29	05	1920	06:30	6h	39N6	94W35	Kansas City, MO
+Lopez Nancy	SP	06	01	1957	16:00	8h	33N50	118W19	Torrance, CA
+Losey Joseph	AC	14	01	1909	15:45	6h	43N48	91W15	La Crosse, WI
+Louie Marcelyn	SP	10	09	1953	22:01	7h	37N47	122W25	San Francisco, CA
+Lousma Jack	MI	29	02	1936	08:38	5h	42N58	85W40	Grand Rapids, MI
+Love John	PO	29	11	1916	09:30	6h	40N28	88W22	Gibson City, IL
+Lovell James	MI	25	03	1928	02:10	5h	41N30	81W42	Cleveland, OH
+Lowenstein Allard	PO	16	01	1929	15:22	5h	40N44	74W10	Newark, NJ
+Lowry Bates	XX	21	06	1923	01:45	5h	39N6	84W31	Cincinnati, OH
+Lowry Robert	WR	29	03	1919	20:08	6h	39N6	84W31	Cincinnati, OH
+Lucas George	AC	14	05	1944	05:40	7h	37N39	121W0	Modesto, CA
+Lucas Jerry	SP	30	03	1940	03:00	5h	39N31	84W24	Middletown, OH
+Lucas Luce	EX	29	08	1917	10:00	6h	42N44	90W29	Platteville, WI
+Lucey Patrick	PO	21	03	1918	15:30	6h	43N48	91W15	La Crosse, WI
+Luisetti Angelo	SP	16	06	1916	08:30	8h	37N47	122W25	San Francisco, CA
+Lynde Paul	AC	13	06	1926	08:15	5h	40N23	82W29	Mt Vernon, OH
+Lyness Douglas	MI	06	07	1919	16:28	5h	44N59	93W16	Minneapolis, MN
+Lynn James	PO	27	02	1927	23:20	5h	41N30	81W42	Cleveland, OH
+Lynn Janet	PO	06	04	1953	00:33	6h	41N52	87W39	Chicago, IL
+Mac Adams Lewis	WR	12	10	1944	07:04	5h	31N28	100W26	San Angelo, TX
+Mac Donald Ross	WR	13	12	1915	03:10	8h	37N14	121W59	Los Gatos, CA
+Mac Neil Cornell	AR	24	09	1922	02:56	6h	44N59	93W16	Minneapolis, MN
+Mac Rae Albert	AC	12	03	1921	07:15	5h	40N46	74W13	East Orange, NJ
+Mack Thomas	SP	01	11	1943	08:45	5h	41N30	81W42	Cleveland, OH
+Mackay Berry	SP	31	08	1935	03:43	5h	39N6	84W31	Cincinnati, OH
+Madison Guy	AC	19	01	1922	00:20	8h	35N23	119W1	Bakersfield, CA
+Mahan Larry	SP	21	11	1943	18:34	7h	44N56	123W2	Salem, OR
+Mailer Norman	WR	31	01	1923	09:05	5h	40N18	74W0	Long Branch, NJ
+Mainardi Patricia	AR	10	11	1942	22:15	4h	40N55	74W11	Paterson, NJ
+Malden Karl	AC	22	03	1912	17:00	6h	41N35	87W20	Gary, IN
+Maloy Robert	MI	14	02	1924	21:35	6h	39N30	88W10	Charleston, IL
+Mann Ralph	SP	16	08	1949	09:05	8h	33N47	118W11	Long Beach, CA
+Mann Richard	SP	13	06	1934	16:50	7h	40N45	111W53	Salt Lake City, UT
+Marcheschi Louis	AR	05	04	1945	23:22	7h	37N34	122W19	San Mateo, CA
+Maris Roger	SP	10	09	1934	13:00	6h	47N25	92W55	Hibbing, MN
+Markert Clement	SC	11	04	1917	14:00	7h	38N4	103W13	Las Animas, CO
+Marshall Burke	EX	01	10	1922	02:11	5h	40N37	74W25	Plainfield, NJ
+Martin Billy	XX	16	05	1928	15:43	8h	37N52	122W16	Berkeley, CA
+Martin Dean	AC	17	06	1917	23:55	6h	40N22	80W37	Steubenville, OH
+Martin Edwin	PO	21	05	1908	04:30	6h	39N45	84W12	Dayton, OH
+Martin Harry	MI	04	01	1911	20:00	6h	40N48	82W59	Bucyrus, OH
+Mason Marsha	AC	03	04	1942	11:12	5h	38N37	90W12	St Louis, MO
+Masters William	SC	27	12	1915	19:20	5h	41N30	81W42	Cleveland, OH
+Matheson Salve	MI	11	08	1920	14:25	8h	47N36	122W20	Seattle, WA
+Mathews Edwin	SP	13	10	1931	16:00	6h	33N26	94W6	Texarkana, TX
+Mathias Robert	SP	17	11	1930	07:47	8h	36N13	119W21	Tulare, CA
+Matson James	SP	05	03	1945	20:50	5h	32N23	94W53	Kilgore, TX
+Matson Oliver	SP	01	05	1930	13:00	6h	30N57	95W22	Trinity, TX
+Matsunaga Spark	PO	08	10	1916	22:00	10h30	21N54	159W28	Kukuiula, HI
+Matthews Daniel	MI	31	12	1931	09:28	8h	34N11	118W26	Van Nys, CA
+Matthews Jack	WR	22	07	1925	10:05	5h	39N58	83W0	Columbus, OH
+Matthews William	WR	11	11	1942	08:39	4h	39N6	84W31	Cincinnati, OH
+Mattingly Thomas	MI	17	03	1936	18:22	5h	41N52	87W39	Chicago, IL
+Mauch Gene	XX	18	11	1925	19:15	6h	38N50	97W37	Salina, KS
+May Rollo	WR	21	04	1909	02:20	5h	40N46	83W49	Ada, OH
+Mayfield Julian	WR	06	06	1928	06:00	5h	34N56	82W14	Greer, SC
+Mayo George	MI	29	11	1918	17:03	8h	37N47	122W25	San Francisco, CA
+Mayo Robert	PO	15	03	1916	10:15	8h	47N36	122W20	Seattle, WA
+Mays Willie	SP	06	05	1931	22:30	6h	33N22	86W58	Westfield, AL
+Mc Adoo Robert	SP	25	09	1951	19:38	5h	36N4	79W48	Greensboro, NC
+Mc Alister Robert	MI	15	09	1923	20:45	6h	36N44	88W38	Mayfield, KY
+Mc Bride Patricia	AR	23	08	1942	20:49	4h	40N53	74W1	Teaneck, NJ
+Mc Cambridge Mercedes	AC	17	03	1918	05:00	6h	41N32	88W5	Joliet, IL
+Mc Carthy Eugene	PO	29	03	1916	04:00	6h	45N19	94W24	Watkins, MN
+Mc Carthy Kevin	AC	15	02	1914	04:00	8h	47N36	122W20	Seattle, WA
+Mc Carthy Marie	WR	21	06	1912	17:00	8h	47N36	122W20	Seattle, WA
+Mc Closkey Paul	PO	29	09	1927	08:35	8h	34N7	117W19	San Bernardino, CA
+Mc Clure Doug	AC	11	05	1935	17:49	8h	40N52	124W5	Glendale, CA
+Mc Clure Michael	WR	20	10	1932	21:00	6h	39N51	96W39	Marysville, KS
+Mc Connell Richard	MI	19	11	1923	16:50	5h	40N49	73W59	Cliffside Park, NJ
+Mc Covey Willy	SP	10	01	1938	12:15	6h	30N41	88W3	Mobile, AL
+Mc Cracken John	AR	09	12	1934	06:51	8h	37N52	122W16	Berkeley, CA
+Mc Crea Joel	AC	05	11	1905	07:00	8h	34N4	118W15	Los Angeles, CA
+Mc Cullouch Earl	SP	10	01	1946	04:00	6h	33N37	95W3	Clarksville, TX
+Mc Cutcheon Keith	MI	10	08	1915	08:00	6h	40N37	80W35	East Liverpool, OH
+Mc Daniel Boyce	SC	11	06	1917	06:20	5h	35N14	82W44	Brevard, NC
+Mc Dermott Richard	SP	20	09	1940	05:35	5h	43N37	83W50	Essexville, MI
+Mc Divitt James	MI	10	06	1929	14:16	5h	41N52	87W39	Chicago, IL
+Mc Elhenny Hugh	SP	31	12	1928	06:45	8h	34N4	118W15	Los Angeles, CA
+Mc Enery John	MI	30	12	1925	20:05	8h	37N47	122W25	San Francisco, CA
+Mc Kee George	MI	28	04	1923	21:00	5h	34N53	82W42	Pickins, SC
+Mc Keen Chester	MI	18	03	1923	23:30	5h	40N53	82W40	Shelby, OH
+Mc Kenzie James	AC	01	05	1926	16:04	6h	44N16	88W25	Appleton, WI
+Mc Kinley Charles	SP	05	01	1941	01:20	6h	38N37	90W12	St Louis, MO
+Mc Kissick Floyd	PO	09	03	1922	19:45	5h	35N36	82W33	Asheville, NC
+Mc Laughlin John	MI	21	09	1918	17:10	4h	32N46	79W56	Charleston, SC
+Mc Laughlin John	MI	24	12	1917	18:05	8h	37N47	122W25	San Francisco, CA
+Mc Morries Edwin	MI	15	12	1921	02:30	6h	30N25	87W13	Pensacola, FL
+Mc Pherson John	MI	04	10	1917	11:10	6h	47N31	92W32	Virginia, MN
+Mc Swiney James	EX	13	11	1915	11:00	6h	36N7	87W38	Mc Ewen, TN
+Mc Winney Madeline	EX	11	03	1922	10:40	7h	39N44	104W59	Denver, CO
+Meeker Ralph	AC	21	11	1920	15:10	6h	44N59	93W16	Minneapolis, MN
+Melchert Jim	AR	02	12	1930	00:31	6h	40N26	84W23	New Bremen, OH
+Mellen Thomas	MI	26	07	1918	22:45	7h	37N47	122W25	San Francisco, CA
+Menk Louis	EX	08	04	1918	21:00	6h	39N39	104W59	Englewood, CO
+Mercer Marian	AC	26	11	1935	01:20	5h	41N5	81W31	Akron, OH
+Meredith Burgess	AC	16	11	1907	02:00	6h	41N30	81W42	Cleveland, OH
+Metcalf Robert	SC	13	11	1916	10:00	6h	39N58	83W0	Columbus, OH
+Mettler Ruben	EX	23	02	1924	17:00	8h	35N30	119W16	Shafter, CA
+Metzger Louis	MI	18	11	1916	08:00	8h	37N47	122W25	San Francisco, CA
+Michaelis Frederick	MI	04	03	1917	10:45	6h	39N6	94W35	Kansas City, MO
+Middlecoff Gary	SP	06	01	1921	11:00	6h	35N53	89W24	Halls, TN
+Midler Bette	AC	01	12	1945	14:19	10h30	21N19	157W52	Honolulu, HI
+Mikan George	SP	18	06	1924	13:00	6h	41N32	88W5	Joliet, IL
+Miller Allen	SP	10	08	1948	18:44	7h	32N43	117W9	San Diego, CA
+Miller Freddie	SP	03	04	1911	03:00	6h	39N6	84W31	Cincinnati, OH
+Miller John	SP	29	04	1947	22:46	8h	37N47	122W25	San Francisco, CA
+Miller Neal	SC	03	08	1909	04:30	6h	43N2	87W55	Milwaukee, WI
+Millett Kate	WR	14	09	1934	19:40	6h	44N57	93W6	St Paul, MN
+Milton Theodore	MI	29	12	1915	13:40	10h30	21N30	158W4	Schofield Barracks, HI
+Mimieux Yvette	AC	08	01	1941	07:02	8h	34N6	118W21	Hollywood, CA
+Minnelli Liza	AC	12	03	1946	07:58	8h	34N4	118W15	Los Angeles, CA
+Minow Newton	EX	17	01	1926	12:10	6h	43N2	87W55	Milwaukee, WI
+Minter Charles	MI	20	08	1925	05:25	6h	32N28	84W59	Columbus, GA
+Mitchell Edgar	MI	17	09	1930	04:30	6h	34N49	102W24	Hereford, TX
+Mitchell Frank	MI	18	08	1921	05:30	6h	31N42	98W7	Indian Gap, TX
+Mitchell James	AC	29	02	1920	08:50	8h	38N35	121W29	Sacramento, CA
+Mitchell Lydell	SP	30	05	1949	02:59	4h	39N34	75W28	Salem, NJ
+Mitchum James	AC	08	05	1941	21:55	8h	34N4	118W15	Los Angeles, CA
+Moncrief William	MI	16	08	1921	14:00	7h	39N44	104W59	Denver, CO
+Mondale Walter	PO	05	01	1928	10:30	6h	43N32	94W38	Ceylon, MN
+Montgomery Deane	SC	02	09	1909	10:00	6h	44N12	91W52	Weaver, MN
+Montgomery Earl	AC	17	04	1921	13:44	6h	35N8	90W3	Memphis, TN
+Montgomery Elisabeth	AC	15	04	1933	16:38	8h	34N4	118W15	Los Angeles, CA
+Moor Bill	AC	13	07	1931	01:49	5h	41N39	83W33	Toledo, OH
+Moore George	SC	22	02	1920	12:45	6h	44N59	93W16	Minneapolis, MN
+Moore Harley	MI	25	12	1918	01:00	6h	40N25	91W8	Carthage, IL
+Moore Harold	MI	13	02	1922	09:00	6h	37N49	85W28	Bardstown, KY
+Moore Ostis	MI	20	09	1926	17:00	5h	35N13	80W51	Charlotte, NC
+Moore Terry	AC	07	01	1929	14:15	8h	34N4	118W15	Los Angeles, CA
+Moreau James	MI	05	02	1921	11:45	6h	45N39	95W23	Glenwood, MN
+Morgan Joe	SP	19	09	1943	21:20	5h	33N35	96W11	Bonham, TX
+Morgan Lee	EX	04	01	1920	11:00	6h	41N12	90W45	Aledo, IL
+Morgan Robert	PO	05	10	1925	05:00	5h	35N24	78W49	Lillington, NC
+Moriarty Michael	AC	05	04	1941	18:09	5h	42N20	83W3	Detroit, MI
+Morin Milt	SP	15	10	1942	20:30	4h	42N32	71W46	Leominster, MA
+Morley Roger	EX	21	06	1931	17:43	5h	41N30	81W42	Cleveland, OH
+Morris Robert	AR	09	02	1931	14:10	6h	39N6	94W35	Kansas City, MO
+Morrison Toni	WR	18	02	1931	11:00	5h	41N28	82W11	Lorain, OH
+Morrow Bobby	SP	15	10	1935	12:05	6h	26N12	97W42	Harlingen, TX
+Morton Roger	PO	19	09	1914	12:00	6h	38N15	85W46	Louisville, KY
+Motherwell Robert	AR	24	01	1915	22:45	8h	46N59	123W50	Aberdeen, WA
+Mott Stewart	PO	04	12	1937	09:45	5h	43N1	83W41	Flint, MI
+Moyer Denny	SP	08	08	1939	10:51	8h	45N32	122W37	Portland, OR
+Munson Thurman	SP	07	06	1947	13:50	5h	41N5	81W31	Akron, OH
+Murayama Makio	SC	10	08	1912	05:40	8h	37N47	122W25	San Francisco, CA
+Murphy Raymond	MI	14	01	1930	21:30	7h	38N14	104W36	Pueblo, CO
+Murphy William	EX	17	06	1907	10:00	6h	44N15	88W24	Appleton, WI
+Murray Don	AC	31	07	1929	22:10	8h	34N6	118W21	Hollywood, CA
+Murray Raymond	MI	30	01	1913	12:15	8h	34N4	118W15	Los Angeles, CA
+Murro Mark	SP	04	06	1949	05:10	4h	40N44	74W10	Newark, NJ
+Myers Dale	XX	08	01	1922	04:45	6h	39N6	94W35	Kansas City, MO
+Naber John	SP	20	01	1956	09:26	6h	42N3	87W41	Evanston, IL
+Nader George	AC	19	10	1921	18:20	8h	34N9	118W9	Pasadena, CA
+Nash Philleo	PO	25	10	1909	03:45	6h	44N23	89W49	Wisc. Rapids, WI
+Nathan Leonard	WR	08	11	1924	15:30	8h	34N4	118W15	Los Angeles, CA
+Nathans Daniel	SC	30	10	1928	07:15	4h	39N45	75W33	Wilmington, DE
+Neal Patricia	AC	20	01	1926	04:30	6h	36N40	84W03	Packard, KY
+Neel James	SC	22	03	1915	16:00	6h	39N24	84W34	Hamilton, OH
+Nelson Douglas	MI	09	01	1921	01:15	8h	46N11	123W50	Astoria, OR
+Nelson Rick	AC	08	05	1940	13:25	4h	40N53	74W1	Teaneck, NJ
+Nelson Willie	AR	30	04	1933	12:30	6h	31N53	97W4	Abbott, TX
+Neri Manuel	AR	12	04	1930	00:30	8h	36N42	119W33	Sanger, CA
+Newberry Janet	SP	06	08	1953	13:00	7h	34N4	118W15	Los Angeles, CA
+Newman Paul	AC	26	01	1925	06:30	5h	41N30	81W42	Cleveland, OH
+Ney Edward	EX	26	05	1925	07:00	6h	44N57	93W6	St Paul, MN
+Nicklaus Jack	SP	21	01	1940	03:10	5h	39N58	83W0	Columbus, OH
+Nitschke Raymond	SP	29	12	1936	18:30	6h	41N56	87W49	Elmwood Park, IL
+Noland Kenneth	AR	10	04	1924	17:00	5h	35N36	82W33	Asheville, NC
+Nova Lou	SP	16	03	1915	06:00	8h	34N4	118W15	Los Angeles, CA
+Nunn Donald	MI	28	06	1918	06:10	5h	44N57	93W6	St Paul, MN
+O'Brien Parry	SP	28	01	1932	18:04	8h	34N1	118W29	Santa Monica, CA
+O'Callaghan Mike	PO	10	09	1929	00:30	6h	43N48	91W15	La Crosse, WI
+O'Hara Tom	SP	05	07	1942	11:44	5h	41N52	87W39	Chicago, IL
+O'Neal Arthur	PO	15	05	1936	00:15	8h	47N34	122W38	Bremerton, WA
+O'Neal Ryan	AC	20	04	1941	09:34	8h	34N4	118W15	Los Angeles, CA
+O'Neal Tatum	AC	05	11	1963	03:38	8h	34N4	118W15	Los Angeles, CA
+Oates Warren	AC	05	07	1928	05:00	6h	37N13	87W14	Depoy, KY
+Oberlin David	PO	06	01	1920	03:00	6h	39N34	95W7	Atchison, KS
+Obregon Eugene	MI	12	11	1930	01:45	8h	34N4	118W15	Los Angeles, CA
+Ochs Elmer	MI	11	04	1925	06:58	6h	38N59	88W10	Newton, IL
+Oelman Robert	EX	09	06	1909	05:00	6h	39N45	84W12	Dayton, OH
+Ogilvie Richard	PO	22	02	1923	00:15	6h	39N6	94W35	Kansas City, MO
+Okun Arthur	PO	28	11	1928	23:20	5h	40N44	74W4	Jersey City, NJ
+Olsen Merlin	SP	15	09	1940	01:30	7h	41N44	111W50	Logan, UT
+Opel John	EX	05	01	1925	10:00	6h	39N6	94W35	Kansas City, MO
+Orem Charles	EX	23	08	1916	14:45	6h	36N10	86W47	Nashville, TN
+Osterbrock Donald	SC	13	07	1924	10:25	5h	39N6	84W31	Cincinnati, OH
+Ott David	MI	31	07	1922	19:40	10h30	21N30	158W4	Schofield Barr, HI
+Ottina John	EX	05	11	1931	23:11	8h	34N4	118W15	Los Angeles, CA
+Otto James	SP	05	01	1938	20:26	6h	44N58	89W38	Wausau, WI
+Overmyer Robert	MI	14	07	1936	09:30	5h	41N28	82W11	Lorain, OH
+Owen Guy	WR	24	02	1925	19:00	5h	34N29	78W39	Clarkton, NC
+Owen Nancy	SC	30	10	1915	09:15	6h	42N57	88W22	Genesee, WI
+Owen Nancy	SP	02	05	1943	17:18	4h	41N30	81W42	Cleveland, OH
+Owens Robert	MI	13	09	1920	12:10	5h	34N51	82W24	Greenville, SC
+Paar Jack	AC	01	05	1917	23:55	6h	40N48	81W23	Canton, OH
+Packard David	EX	07	09	1912	14:15	7h	38N14	104W36	Pueblo, CO
+Page Alan	SP	07	08	1945	20:23	4h	40N48	81W23	Canton, OH
+Paget Debra	AC	19	08	1933	08:00	7h	39N44	104W59	Denver, CO
+Paige Janis	AC	16	09	1922	09:05	8h	47N14	122W26	Tacoma, WA
+Paine Thomas	PO	09	11	1921	14:25	8h	37N52	122W16	Berkeley, CA
+Palmer Gregg	AC	25	01	1927	05:50	8h	37N47	122W25	San Francisco, CA
+Palmer James	MI	23	01	1917	20:00	6h	38N6	93W3	Climax Springs, MO
+Pardee Arthur	SC	13	07	1921	07:00	5h	41N52	87W39	Chicago, IL
+Parker Eleanor	AC	26	06	1922	07:00	6h	39N44	83W49	Cedarville, OH
+Parker Jack	EX	06	07	1918	23:50	7h	37N27	122W10	Palo Alto, CA
+Parkinson Thomas	WR	24	02	1920	08:05	8h	37N47	122W25	San Francisco, CA
+Parks Robert	XX	01	04	1922	08:30	8h	34N4	118W15	Los Angeles, CA
+Parseghian Ara	XX	21	05	1923	08:05	5h	41N5	81W31	Akron, OH
+Partridge David	AR	05	10	1919	22:30	5h	41N5	81W31	Akron, OH
+Paschall James	MI	31	03	1923	19:55	5h	35N19	77W47	La Grange, NC
+Paschall Lee	MI	21	01	1922	11:00	7h	40N37	103W13	Sterling, CO
+Patch Paul	MI	28	05	1920	02:00	6h	39N44	104W59	Denver, CO
+Patterson Floyd	SP	04	01	1935	14:30	5h	35N22	81W26	Waco, NC
+Patchen Kenneth	WR	13	12	1910	00:30	6h	41N11	80W46	Niles, OH
+Patton Melvin	SP	16	11	1924	13:07	8h	34N4	118W15	Los Angeles, CA
+Pearson David	SP	22	12	1934	02:00	5h	34N56	81W57	Spartanburg, SC
+Peck Gregory	AC	05	04	1916	08:00	8h	32N50	117W16	La Jolla, CA
+Peckinpah David	AC	21	02	1925	14:15	8h	36N44	119W47	Fresno, CA
+Pendleton Austin	AC	27	03	1940	00:45	5h	41N14	80W49	Warren, OH
+Pennel John	SP	25	07	1940	16:46	6h	35N8	90W3	Memphis, TN
+Peoples David	SP	06	06	1916	18:00	6h	36N13	83W18	Morristown, TN
+Peoples Woodrow	SP	16	08	1943	03:21	5h	33N31	86W48	Birmingham, AL
+Peppler Mary	SP	17	10	1944	21:48	5h	42N16	89W6	Rockford, IL
+Percy Charles	PO	27	09	1919	03:40	5h	30N25	87W13	Pensacola, FL
+Perlman Isadore	SC	12	04	1915	07:00	6h	43N2	87W55	Milwaukee, WI
+Perot Henry	EX	27	06	1930	05:34	6h	33N26	94W6	Texarkana, TX
+Perreau Gigi	AC	06	02	1941	11:40	8h	34N4	118W15	Los Angeles, CA
+Perrine Valerie	AC	03	09	1943	21:20	5h	29N18	94W48	Galveston, TX
+Perry Ellis	MI	29	09	1919	22:00	5h	35N14	87W20	Lawrenceburg, TN
+Perry James	SP	30	10	1936	12:10	5h	35N51	77W4	Williamston, NC
+Peters Jean	AC	15	10	1926	16:00	5h	40N48	81W23	Canton, OH
+Petersen Donald	WR	11	11	1928	14:19	6h	44N59	93W16	Minneapolis, MN
+Peterson Russel	PO	03	10	1916	04:00	6h	43N33	89W28	Portage, WI
+Pettet William	AR	10	10	1942	21:00	7h	33N58	118W3	Whittier, CA
+Pettit Robert	SP	12	12	1932	05:04	6h	30N27	91W11	Baton Rouge, LA
+Petty Richard	SP	02	07	1937	08:45	5h	35N49	79W48	Randleman, NC
+Phillips James	SP	05	02	1936	03:45	6h	32N56	85W58	Alexander City, AL
+Pickens Slim	AC	29	06	1919	23:50	7h	36N31	119W33	Kingsberg, CA
+Pillod Charles	EX	20	10	1918	15:05	5h	41N8	81W29	Cuyahoga Falls, OH
+Pimentel George	SC	02	05	1922	23:00	8h	36N44	119W47	Fresno, CA
+Pine Phillip	AC	16	07	1925	02:35	8h	36N20	119W39	Hanford, CA
+Pinkerton Clayton	AR	06	03	1931	11:00	8h	37N47	122W25	San Francisco, CA
+Pitchford Kenneth	WR	24	01	1931	06:10	6h	46N53	96W45	Moorhead, MN
+Pitts William	MI	27	11	1919	06:00	8h	33N54	117W15	March Field, CA
+Plante David	WR	04	03	1940	13:00	5h	41N49	71W24	Providence, RI
+Platts John	EX	19	11	1917	20:00	5h	42N20	83W3	Detroit, MI
+Plunkett Jim	SP	05	12	1947	02:30	8h	37N20	121W53	San Jose, CA
+Poe Bryce	MI	10	10	1924	00:44	6h	37N42	97W20	Wichita, KS
+Poggemeyer Herman	MI	22	04	1919	06:03	5h	39N19	94W55	Leavenworth, KS
+Pollard James	SP	09	07	1922	22:50	8h	37N49	122W16	Oakland, CA
+Porter Bill	SP	24	03	1926	02:35	5h	42N15	84W24	Jackson, MI
+Poston Thoams	AC	17	10	1921	21:40	6h	39N58	83W0	Columbus, OH
+Powers James	WR	08	07	1917	17:30	6h	39N44	90W14	Jacksonville, IL
+Prefontaine Steve	SP	25	01	1951	08:05	8h	43N22	124W13	Coos Bay, OR
+Presnell Harve	AC	14	09	1933	02:10	8h	37N39	121W0	Modesto, CA
+Preus Jacob	XX	08	01	1920	07:00	6h	44N57	93W6	St Paul, MN
+Price Edwards	WR	01	02	1933	08:00	5h	36N26	78W5	Macon, NC
+Price Frank	MI	11	06	1919	07:00	5h	37N47	82W44	Van Lear, KY
+Prokosch Frederic	WR	17	05	1906	06:00	6h	43N4	89W24	Madison, WI
+Pryor Richard	AC	01	12	1940	13:02	6h	40N42	89W36	Peoria, IL
+Puck Theodore	SC	24	09	1916	23:15	6h	41N52	87W39	Chicago, IL
+Rabb Ellis	AC	20	06	1930	10:15	6h	35N8	90W3	Memphis, TN
+Rae Charlotte	AC	22	04	1926	18:30	6h	43N2	87W55	Milwaukee, WI
+Rainey Froelich	SC	18	06	1907	00:00	6h	44N18	90W51	Black River Falls, WI
+Raitt John	AC	19	01	1917	13:00	8h	33N46	117W52	Santa Ana, CA
+Ralston R	SP	27	07	1942	08:37	7h	35N23	119W1	Bakersfield, CA
+Ramo Simon	EX	07	05	1913	11:30	7h	40N45	111W53	Salt Lake City, UT
+Ramos Mel	AR	24	07	1935	13:00	8h	38N35	121W29	Sacramento, CA
+Ramsey Lloyd	MI	29	05	1918	07:00	5h	37N05	84W36	Somerset, KY
+Ramsey Logan	AC	21	03	1921	05:30	8h	33N47	118W11	Long Beach, CA
+Rather Dan	XX	31	10	1931	18:13	6h	29N19	96W6	Wharton, TX
+Rauh Joseph	PO	03	01	1911	20:00	6h	39N6	84W31	Cincinnati, OH
+Rauschenberg Robert	AR	22	10	1925	10:00	6h	29N54	93W56	Port Arthur, TX
+Ray Dixy	PO	03	09	1914	01:00	8h	47N14	122W26	Tacoma, WA
+Redford Robert	AC	18	08	1936	20:02	8h	34N1	118W29	Santa Monica, CA
+Reed Willis	SP	25	06	1942	20:40	5h	32N49	92W39	Bernice, LA
+Reeves Steve	AC	21	01	1926	08:00	7h	48N11	106W38	Glasgow, MT
+Rehnquist William	PO	01	10	1924	11:32	6h	43N2	87W55	Milwaukee, WI
+Reilly M	MI	27	08	1921	21:15	7h	47N30	111W17	Great Falls, MT
+Renner William	EX	29	09	1920	23:00	5h	39N31	84W24	Middletown, OH
+Revelle Roger	SC	07	03	1909	09:20	8h	47N36	122W20	Seattle, WA
+Rhea Alexander	EX	10	05	1919	21:40	5h	31N57	97W19	Whitney, TX
+Rhodarmer Roger	MI	18	02	1922	15:50	5h	35N32	82W50	Canton, NC
+Rhodes John	PO	18	09	1916	08:15	6h	38N40	96W29	Council Grove, KS
+Ricciardi Franc	EX	21	08	1923	17:10	4h	40N48	74W12	Glen Ridge, NJ
+Rice James	SP	08	03	1953	02:06	5h	34N31	82W39	Anderson, SC
+Richards Robert	SP	20	02	1926	20:00	6h	40N7	88W15	Champaign, IL
+Richardson Bobby	SP	19	08	1935	05:00	5h	33N55	80W21	Sumter, SC
+Richmond Chester	MI	22	02	1917	12:31	8h	37N47	122W25	San Francisco, CA
+Riegle Donald	PO	04	02	1938	20:50	5h	43N1	83W41	Flint, MI
+Rigby Cathy	SP	12	12	1952	18:45	8h	33N47	118W11	Long Beach, CA
+Riggs Bobby	SP	25	02	1918	01:00	8h	34N4	118W15	Los Angeles, CA
+Roan Charles	MI	16	08	1923	04:00	6h	35N7	101W22	Claude, TX
+Roberts Carson	MI	04	09	1905	15:30	6h	42N51	90W43	Lancaster, WI
+Roberts John	MI	01	01	1921	21:00	6h	44N10	94W0	Mankato, MN
+Roberts John	SP	08	06	1918	08:40	7h	34N4	118W15	Los Angeles, CA
+Roberts Ken	SP	31	12	1951	17:07	8h	37N39	121W0	Modesto, CA
+Roberts Robin	SP	30	09	1926	11:45	6h	39N48	89W39	Springfield, IL
+Robinson Arnie	SP	07	04	1948	20:55	7h	32N43	117W9	San Diego, CA
+Robinson Richard	SP	03	05	1941	22:49	4h	40N0	74W47	Mount Holly, NJ
+Roddis Louis	EX	09	09	1918	15:00	4h	32N46	79W56	Charleston, SC
+Rodgers Philamon	SP	03	04	1938	07:45	8h	32N43	117W9	San Diego, CA
+Rogers Bernard	MI	16	07	1921	14:30	6h	39N50	95W44	Fairview, KS
+Rogers Roy	AC	05	11	1911	12:15	6h	39N6	84W31	Cincinnati, OH
+Rohm Robert	AR	06	02	1934	04:09	5h	39N6	84W31	Cincinnati, OH
+Roosa Stuart	MI	16	08	1933	23:00	7h	37N17	107W53	Durango, CO
+Root William	WR	28	12	1941	06:40	6h	43N40	92W58	Austin, MN
+Rosburg Bob	SP	21	10	1926	09:20	8h	37N47	122W25	San Francisco, CA
+Rose Peter	SP	14	04	1941	05:45	5h	39N6	84W31	Cincinnati, OH
+Roseborough Morgan	MI	14	06	1918	13:00	5h	35N8	90W3	Memphis, TN
+Rosen Martin	PO	07	08	1919	22:20	5h	39N6	84W31	Cincinnati, OH
+Ross Diana	AC	26	03	1944	23:46	4h	42N20	83W3	Detroit, MI
+Ross Donald	MI	14	10	1923	11:00	8h	37N39	121W0	Modesto, CA
+Roth Philip	WR	19	03	1933	01:00	5h	40N44	74W10	Newark, NJ
+Roth William	PO	22	07	1921	16:15	7h	47N30	111W17	Great Falls, MT
+Rubin Larry	WR	14	02	1930	03:00	5h	40N40	74W7	Bayonne, NJ
+Rule Janica	AC	15	08	1931	05:15	5h	39N10	84W27	Norwood, OH
+Rush David	PO	17	01	1910	12:00	8h	46N4	118W20	Walla Walla, WA
+Russell Jane	AC	21	06	1921	06:15	6h	47N28	94W53	Bemidji, MN
+Russell John	AC	03	01	1921	00:05	8h	34N4	118W15	Los Angeles, CA
+Russell Kendell	MI	25	01	1925	04:10	6h	39N22	94W55	Fort Lesvenworth, KS
+Russell Kurt	AC	17	03	1951	10:42	5h	42N6	72W35	Springfield, MA
+Ryan Michael	MI	31	01	1916	23:00	6h	38N38	95W50	Osage City, KS
+Ryun James	SP	29	04	1947	17:00	6h	37N42	97W20	Wichita, KS
+Sabich Vladimir	SP	09	01	1945	01:18	7h	38N35	121W29	Sacramento, CA
+Saimes George	SP	01	09	1941	03:30	5h	40N48	81W23	Canton, OH
+Saint Eva	AC	04	07	1924	17:25	4h	40N44	74W10	Newark, NJ
+Saint John Adrian	MI	06	11	1921	22:50	6h	39N22	94W55	Fort Leavenworth, KS
+Saint John Jill	AC	19	08	1940	18:21	8h	34N4	118W15	Los Angeles, CA
+Salinger Pierre	PO	14	06	1925	16:30	8h	37N47	122W25	San Francisco, CA
+Salmon Thomas	PO	19	08	1932	12:36	5h	41N30	81W42	Cleveland, OH
+Salt Jennifer	AC	04	09	1944	21:34	7h	34N4	118W15	Los Angeles, CA
+Sanders Ed	WR	17	08	1939	14:10	6h	39N6	94W35	Kansas City, MO
+Santee Wes	SP	25	03	1932	13:00	6h	37N12	99W47	Ashland, KS
+Saul Peter	AR	16	08	1934	10:01	8h	37N47	122W25	San Francisco, CA
+Savitt Richard	SP	04	03	1927	16:15	5h	40N40	74W7	Bayonne, NJ
+Sawhill John	XX	12	06	1936	14:10	5h	41N30	81W42	Cleveland, OH
+Sayers Gale	SP	20	05	1943	01:05	5h	37N42	97W20	Wichita, KS
+Scali John	PO	27	04	1918	03:51	5h	40N48	81W23	Canton, OH
+Scammon Richard	XX	17	07	1915	09:45	6h	44N59	93W16	Minneapolis, MN
+Schaetzel John	EX	28	01	1917	19:00	8h	32N49	115W23	Holtville, CA
+Schevill James	WR	10	06	1920	06:40	8h	37N52	122W16	Berkeley, CA
+Schirra Walter	MI	12	03	1923	16:55	5h	40N53	74W3	Hackensack, NJ
+Schlafly Phyllis	WR	15	08	1924	23:25	6h	38N37	90W12	St Louis, MO
+Schlesinger Arthur	WR	15	10	1917	01:55	6h	39N58	83W0	Columbus, OH
+Schmidt Kathy	SP	29	12	1953	10:08	8h	33N47	118W11	Long Beach, CA
+Schmidt Mike	SP	27	09	1949	10:33	5h	39N45	84W12	Dayton, OH
+Schneider Raymond	MI	20	10	1917	17:30	5h	41N30	81W42	Cleveland, OH
+Schollander Donald	SP	30	04	1946	12:34	5h	35N13	80W51	Charlotte, NC
+Schoning William	MI	22	02	1922	09:45	8h	47N36	122W20	Seattle, WA
+Schorer Mark	WR	17	05	1908	13:00	6h	43N17	89W43	Sauk City, WI
+Schroeder Frederick	SP	20	07	1921	22:40	4h	40N44	74W10	Newark, NJ
+Schul Bob	SP	28	09	1937	05:30	5h	39N58	84W20	West Milton, OH
+Schweickart Russel	MI	25	10	1935	19:02	5h	40N13	74W2	Neptune, NJ
+Scott David	MI	06	06	1932	04:04	6h	29N25	98W30	San Antonio, TX
+Scott Jacob	SP	20	07	1945	04:08	4h	34N12	82W10	Greenwood, SC
+Scowcroft Brent	MI	19	03	1925	17:50	7h	41N13	111W58	Ogden, UT
+Scrimshaw Nevin	SC	20	01	1918	18:00	6h	43N2	87W55	Milwaukee, WI
+Seagren Robert	SP	17	10	1946	16:04	8h	34N4	117W45	Pomona, CA
+Seagull Barbara	AC	05	02	1948	10:01	8h	34N6	118W21	Hollywood, CA
+Seaver Tom	SP	17	11	1944	06:27	7h	36N44	119W47	Fresno, CA
+Sefton William	SP	21	01	1915	02:20	8h	34N4	118W15	Los Angeles, CA
+Seibert Donald	EX	17	08	1923	02:35	6h	39N24	84W34	Hamilton, OH
+Seignious George	MI	21	06	1921	03:00	5h	33N30	80W52	Orangeburg, SC
+Seitz Frederick	SC	04	07	1911	22:20	8h	37N47	122W25	San Francisco, CA
+Seitz Richard	MI	18	02	1918	11:45	6h	39N19	94W55	Leavenworth, KS
+Selecman Charles	EX	17	09	1928	06:33	6h	32N47	96W49	Dallas, TX
+Sell Leslie	MI	20	05	1921	12:00	5h	36N19	82W21	Johnson City, TN
+Shaffer Raymond	EX	06	04	1912	22:30	6h	37N59	94W49	Harding, KS
+Shapiro Irving	EX	15	07	1916	23:10	6h	44N59	93W16	Minneapolis, MN
+Shapleigh Warren	EX	27	10	1920	18:00	6h	38N37	90W12	St Louis, MO
+Shapp Milton	PO	25	06	1912	03:30	6h	41N30	81W42	Cleveland, OH
+Shaw Tim	SP	08	11	1957	21:20	8h	33N47	118W11	Long Beach, CA
+Sheen Martin	AC	03	08	1940	20:03	5h	39N45	84W12	Dayton, OH
+Shelton Ernie	SP	28	09	1932	17:45	6h	37N41	95W27	Chanute, KS
+Shields Allan	AR	04	02	1944	01:48	5h	38N34	96W58	Lost Springs, KS
+Shiely Albert	MI	14	07	1920	10:25	6h	44N57	93W6	St Paul, MN
+Shlaudeman Harry	PO	17	05	1926	18:45	8h	34N4	118W15	Los Angeles, CA
+Shoemaker Eugene	PO	28	04	1928	11:56	8h	34N4	118W15	Los Angeles, CA
+Short Bobby	AC	15	09	1924	22:30	6h	40N8	87W37	Danville, IL
+Sianis Pete	MI	22	01	1920	21:00	6h	39N6	94W35	Kansas City, MO
+Sidle Winant	MI	07	09	1916	20:00	6h	39N55	83W49	Springfield, OH
+Sigler Franklin	MI	06	11	1924	12:40	5h	40N48	74W12	Glen Ridge, NJ
+Silvester Jay	SP	27	08	1937	07:30	8h	41N43	112W10	Tremonton, UT
+Simanek Robert	MI	26	04	1930	02:55	5h	42N20	83W3	Detroit, MI
+Sime Dave	SP	25	07	1936	14:35	4h	40N55	74W11	Paterson, NJ
+Simokaitis Frank	MI	12	12	1922	23:25	6h	38N37	90W12	St Louis, MO
+Simon Herbert	XX	15	06	1916	16:15	6h	43N2	87W55	Milwaukee, WI
+Simon William	PO	27	11	1927	21:55	5h	40N55	74W11	Paterson, NJ
+Simone Nina	AR	21	02	1933	06:00	5h	35N13	82W14	Tryon, NC
+Simpson Orenthal	SP	09	07	1947	08:08	8h	37N47	122W25	San Francisco, CA
+Singlaub John	MI	10	07	1921	15:00	8h	36N48	118W12	Independence, CA
+Six Robert	EX	25	06	1907	04:00	8h	37N58	121W17	Stockton, CA
+Skaggs Luther	MI	03	03	1923	02:30	6h	37N50	87W35	Henderson, KY
+Skeggs Leonard	SC	09	06	1918	22:00	5h	41N21	83W7	Fremont, OH
+Slater Joseph	PO	17	08	1922	04:56	7h	40N45	111W53	Salt Lake City, UT
+Slayton Donald	MI	01	03	1924	05:40	6h	43N56	90W49	Sparta, WI
+Small Walter	MI	31	10	1916	13:40	5h	36N18	76W14	Elizabeth City, NC
+Smart Louis	EX	17	11	1923	12:45	6h	39N58	83W0	Columbus, OH
+Smeal Eleanor	PO	30	07	1939	16:38	5h	41N52	80W47	Ashtabula, OH
+Smith Adrian	SP	05	10	1936	05:30	6h	36N42	88W32	Farmington, KY
+Smith John	AC	06	03	1931	20:12	8h	34N4	118W15	Los Angeles, CA
+Smith John	SP	05	08	1950	11:03	7h	34N4	118W15	Los Angeles, CA
+Smith Lloyd	EX	13	10	1920	14:45	6h	43N2	87W55	Milwaukee, WI
+Smith Lois	AC	03	11	1930	22:45	6h	39N3	95W40	Topeka, KS
+Smith Michael	WR	05	10	1935	15:40	6h	39N6	94W35	Kansas City, MO
+Smith Owen	SP	20	05	1920	23:20	6h	33N12	96W37	Mc Kinney, TX
+Smith Roger	AC	18	12	1932	02:56	8h	33N57	118W12	South Gate, CA
+Smith Stanley	SP	14	12	1946	22:13	8h	34N9	118W9	Pasadena, CA
+Smith Steve	SP	24	11	1951	04:42	8h	33N47	118W11	Long Beach, CA
+Smith Tommie	SP	05	06	1944	06:00	5h	33N37	95W3	Clarksville, TX
+Smith Wallace	SP	02	04	1929	23:00	5h	39N6	84W31	Cincinnati, OH
+Smithson Robert	AR	02	01	1938	15:42	5h	40N51	74W7	Passaic, NJ
+Snavely William	MI	06	04	1920	09:50	8h	34N4	118W15	Los Angeles, CA
+Snell Esmond	SC	22	09	1914	01:30	7h	40N45	111W53	Salt Lake City, UT
+Snyder Gary	WR	08	05	1930	18:12	8h	37N47	122W25	San Francisco, CA
+Snyder Joan	AR	16	04	1940	23:15	5h	40N30	74W27	New Brunswick, NJ
+Sorenson Richard	MI	28	08	1924	11:46	6h	45N12	93W23	Anoka, MN
+Spencer Donald	SC	25	04	1912	15:30	7h	40N1	105W17	Boulder, CO
+Spencer William	EX	24	07	1917	10:00	7h	39N4	108W33	Grand Jet, CO
+Spero Nancy	AR	24	08	1926	13:00	5h	41N30	81W42	Cleveland, OH
+Spitz Mark	SP	10	02	1950	17:45	8h	37N39	121W0	Modesto, CA
+Spitzer Lyman	SC	26	06	1914	21:45	6h	41N39	83W33	Toledo, OH
+Sprinsteen Bruce	AR	23	09	1949	22:50	4h	40N16	74W17	Freehold, NJ
+Squires Radcliffe	WR	23	05	1917	06:30	7h	40N45	111W53	Salt Lake City, UT
+Staats Elmer	PO	06	06	1914	15:00	7h	37N16	101W47	Richfield, KS
+Stack Robert	AC	13	01	1919	16:40	8h	34N4	118W15	Los Angeles, CA
+Stafford Jean	WR	01	07	1915	23:50	8h	34N5	117W52	Covina, CA
+Staiger John	EX	20	03	1910	19:00	6h	44N43	88W09	Chase, WI
+Stamper Malcolm	EX	04	04	1925	13:15	5h	42N20	83W3	Detroit, MI
+Stanford Ann	WR	25	11	1916	18:15	8h	33N56	117W57	La Habra, CA
+Stapleton Carl	MI	13	11	1917	01:40	6h	35N58	83W55	Knoxville, TN
+Starkweather David	WR	11	09	1935	05:55	6h	43N4	89W24	Madison, WI
+Starnes William	MI	23	03	1919	05:25	6h	39N58	83W0	Columbus, OH
+Starr Bryen	SP	09	01	1934	15:00	6h	32N23	86W19	Montgomery, AL
+Staubach Roger	SP	05	02	1942	04:25	5h	39N6	84W31	Cincinnati, OH
+Stearns Charles	SP	13	02	1939	07:58	8h	34N4	118W15	Los Angeles, CA
+Steers Lester	SP	16	06	1917	10:30	8h	40N47	124W9	Eureka, CA
+Stein Tony	MI	30	09	1921	07:00	6h	39N45	84W12	Dayton, OH
+Steinbrenner George	EX	04	07	1930	21:00	5h	41N28	81W51	Rocky River, OH
+Steinem Gloria	WR	25	03	1934	22:00	5h	41N39	83W33	Toledo, OH
+Steinkraus William	SP	12	10	1925	14:30	5h	41N30	81W42	Cleveland, OH
+Stephens Helen	SP	03	02	1918	02:35	6h	38N52	91W57	Fulton, MO
+Stevens George	XX	03	04	1932	16:18	8h	34N4	118W15	Los Angeles, CA
+Stevens Mark	AC	13	12	1922	16:15	5h	41N30	81W42	Cleveland, OH
+Stewart James	MI	02	04	1921	21:00	6h	38N37	90W12	St Louis, MO
+Stewart Thomas	AR	29	08	1928	12:15	6h	31N12	98W43	San Saba, TX
+Stewart William	SC	19	05	1921	02:00	6h	44N59	93W16	Minneapolis, MN
+Stigler George	XX	17	01	1911	00:45	8h	47N29	122W12	Renton, WA
+Stockton David	SP	02	11	1941	03:07	8h	34N7	117W19	San Bernardino, CA
+Stockwell Dean	AC	05	03	1936	21:42	8h	34N6	118W21	Hollywood, CA
+Stokes Carl	PO	21	06	1927	10:30	5h	41N30	81W42	Cleveland, OH
+Stokes Colin	EX	04	04	1914	03:50	5h	36N6	80W15	WinstonSalem, NC
+Stones Dwight	SP	06	12	1953	12:01	8h	34N4	118W15	Los Angeles, CA
+Stoney Robert	MI	24	03	1919	06:45	6h	36N10	86W47	Nashville, TN
+Storm Gale	AC	05	04	1922	11:00	6h	28N39	96W54	Bloomington, TX
+Stouder Sharon	SP	09	11	1948	02:16	7h	34N8	117W52	Glendora, CA
+Suerstedt Henry	MI	14	10	1920	16:14	8h	37N52	122W16	Berkeley, CA
+Summer Donna	AR	31	12	1948	21:00	5h	42N22	71W4	Boston, MA
+Summer James	EX	12	06	1923	15:15	6h	32N47	96W49	Dallas, TX
+Sweeney Walter	SP	18	04	1941	09:20	5h	42N14	70W48	Cohasset, MA
+Swensen Ken	SP	18	04	1948	20:00	6h	39N23	97W8	Clay Center, KS
+Swigert John	MI	30	08	1931	06:19	7h	39N44	104W59	Denver, CO
+Sylvester William	AC	31	01	1922	00:30	8h	37N49	122W16	Oakland, CA
+Tackaberry Thomas	AC	06	09	1923	10:30	8h	34N4	118W15	Los Angeles, CA
+Taft Robert	PO	26	02	1917	07:00	6h	39N6	84W31	Cincinnati, OH
+Talbert William	SP	04	09	1918	21:00	5h	39N6	84W31	Cincinnati, OH
+Talbott Carlos	MI	28	01	1920	01:05	6h	39N30	88W10	Charleston, IL
+Talese Gay	WR	07	02	1932	19:00	5h	39N17	74W35	Ocean City, NJ
+Tarkenton Francis	SP	03	02	1940	00:42	5h	37N33	77W27	Richmond, VA
+Tarpley Thomas	MI	04	07	1922	21:25	6h	39N56	91W23	Quincy, IL
+Tarr Curtis	PO	18	09	1924	20:55	8h	37N58	121W17	Stockton, CA
+Tarr Jerry	SP	27	08	1939	06:10	6h	39N3	95W40	Topeka, KS
+Tate Sharon	AC	24	01	1943	17:47	5h	32N47	96W49	Dallas, TX
+Taylor Arthur	EX	06	07	1935	12:15	4h	40N40	74W13	Elizabeth, NJ
+Taylor Brian	SP	09	06	1951	12:01	4h	40N31	74W16	Perth Amboy, NJ
+Taylor James	AR	12	03	1948	17:06	5h	42N22	71W4	Boston, MA
+Taylor Robert	SP	14	09	1948	10:30	6h	32N21	95W18	Tyler, TX
+Temple-Black Shirley	AC	23	04	1928	21:00	8h	34N1	118W29	Santa Monica, CA
+Tetley Glen	AR	03	02	1926	01:05	5h	41N30	81W42	Cleveland, OH
+Theroux Paul	WR	10	04	1941	19:00	5h	42N25	71W7	Medford, MA
+Thomas John	SP	03	03	1941	21:55	5h	42N22	71W4	Boston, MA
+Thomas Michael	AR	21	12	1944	09:44	7h	34N6	118W21	Hollywood, CA
+Thomas Philip	AC	26	05	1949	04:04	5h	39N58	83W0	Columbus, OH
+Thomas Richard	EX	11	01	1931	12:30	5h	40N35	83W8	Marion, OH
+Thompson David	SP	13	07	1954	02:15	5h	35N17	81W32	Shelby, NC
+Thompson Marshall	AC	27	11	1925	10:45	6h	40N42	89W36	Peoria, IL
+Thurman John	MI	11	04	1924	10:40	6h	38N3	84W30	Lexington, KY
+Thurston Frederick	SP	29	12	1933	15:00	6h	44N48	91W27	Altoona, WI
+Tibbs Tommy	SP	23	07	1934	08:00	5h	39N43	82W36	Lancaster, OH
+Tighe Eugene	MI	19	06	1921	19:45	7h	40N36	103W51	New Raymer, CO
+Tillinghast Richard	WR	25	11	1940	13:19	6h	35N8	90W3	Memphis, TN
+Timmerman Grant	MI	14	02	1919	08:00	6h	38N30	96W16	Americus, KS
+Todd Patricia	SP	22	07	1922	17:00	8h	37N47	122W25	San Francisco, CA
+Tompkins Rathvon	MI	23	08	1912	18:00	7h	40N1	105W17	Boulder, CO
+Towers Constance	AC	20	05	1931	14:35	7h	48N25	114W20	Whitefish, MT
+Townes Charles	SC	28	07	1915	05:00	5h	34N51	82W24	Greenville, SC
+Trabert Marion	SP	16	08	1930	03:50	5h	39N6	84W31	Cincinnati, OH
+Travolta John	AC	18	02	1954	14:53	5h	40N54	73W59	Englewood, NJ
+Trowbridge Alexander	EX	12	12	1929	13:05	5h	40N54	73W59	Englewood, NJ
+Turner Myron	MI	04	04	1913	23:25	6h	39N6	84W31	Cincinnati, OH
+Turner Ted	EX	19	11	1938	08:50	5h	39N6	84W31	Cincinnati, OH
+Tyler Anna	WR	25	10	1941	23:31	6h	44N59	93W16	Minneapolis, MN
+Tyrer James	SP	25	02	1939	20:23	5h	40N3	82W24	Newark, OH
+Tyus Wyomia	SP	29	08	1945	09:45	5h	33N1	84W16	Griffin, GA
+Unseld Westley	SP	14	03	1946	04:26	6h	38N15	85W46	Louisville, KY
+Valenti Jack	PO	05	09	1921	20:30	6h	29N46	95W22	Houston, TX
+Valentine Dewain	WR	27	08	1936	14:58	7h	40N35	105W5	Fort Collins, CO
+Van Cleef Lee	AC	09	01	1925	05:00	5h	40N3	74W38	Somerville, NJ
+Vanderstock Geoff	SP	08	10	1946	00:40	6h	41N52	87W39	Chicago, IL
+Vaughan Sarah	AC	27	03	1924	21:45	5h	40N44	74W10	Newark, NJ
+Venuta Benay	AC	27	01	1910	22:21	8h	37N47	122W25	San Francisco, CA
+Verdon Gwen	AC	13	01	1925	09:57	8h	34N1	118W25	Culver City, CA
+Verga Robert	SP	07	09	1945	03:25	4h	40N13	74W2	Neptune, NJ
+Vincent Jan	AC	15	07	1945	10:16	6h	39N44	104W59	Denver, CO
+Viner Frank	WR	09	08	1937	13:45	4h	42N16	71W48	Worcester, MA
+Vines H	SP	29	09	1911	12:00	8h	34N4	118W15	Los Angeles, CA
+Vogel Robert	SP	23	09	1941	13:46	5h	39N58	83W0	Columbus, OH
+Volcker Paul	PO	05	09	1927	10:30	4h	38N56	74W56	Cape May, NJ
+Volk Richard	SP	15	03	1945	01:24	5h	41N39	83W33	Toledo, OH
+Voulkos Peter	WR	29	01	1924	08:45	7h	45N41	111W2	Bozeman, MT
+Vukovich William	SP	29	03	1944	11:30	7h	36N44	119W47	Fresno, CA
+Wade Bob	AR	06	01	1943	23:50	5h	30N17	97W45	Austin, TX
+Wagner Aubrey	PO	12	01	1912	10:00	6h	43N39	90W21	Hillsboro, WI
+Wagner Robert	AC	10	02	1930	01:45	5h	42N20	83W3	Detroit, MI
+Wagoner David	WR	05	06	1926	04:22	5h	40N48	81W32	Massillon, OH
+Wagstaff Jack	MI	06	05	1917	22:30	7h	40N45	111W53	Salt Lake City, UT
+Waidelich Charles	EX	02	05	1929	16:57	5h	39N58	83W0	Columbus, OH
+Wakoski Diane	WR	03	08	1937	00:30	8h	33N58	118W3	Whittier, CA
+Waldman Anne	WR	02	04	1945	12:20	4h	39N24	75W2	Millville, NJ
+Walker Clint	AC	30	05	1927	13:15	6h	38N50	90W6	Hartford, IL
+Wall Frederick	SC	14	12	1912	22:00	6h	47N29	92W53	Chisholm, MN
+Walt Lewis	MI	16	02	1913	15:30	6h	39N9	96W21	Waubaunsee County, KS
+Walton William	SP	05	11	1952	21:20	8h	32N46	117W3	La Mesa, CA
+Wantling William	WR	07	11	1933	13:45	6h	40N42	89W36	Peoria, IL
+Ward Roger	SP	10	01	1921	03:15	6h	39N28	98W6	Beloit, KS
+Warfield Paul	SP	28	11	1942	11:43	4h	41N14	80W49	Warren, OH
+Warmerdam Cornelius	SP	22	06	1915	20:00	8h	33N47	118W11	Long Beach, CA
+Warnecke John	EX	24	02	1919	22:40	8h	37N49	122W16	Oakland, CA
+Warner Harry	EX	07	07	1916	08:30	6h	39N58	83W0	Columbus, OH
+Warringer Frederick	AC	02	06	1916	09:15	8h	34N9	118W9	Pasadena, CA
+Warwick Dionne	AC	12	12	1940	15:08	5h	40N46	74W14	Orange, NJ
+Wasserburg Gerald	SC	25	03	1927	00:55	5h	40N30	74W27	New Brunswick, NJ
+Watson Robert	WR	26	12	1925	12:00	5h	40N51	74W7	Passaic, NJ
+Webster George	SP	25	11	1945	03:10	5h	34N31	82W39	Anderson, SC
+Wegman William	AR	12	02	1943	04:00	4h	42N12	72W37	Holyoke, MA
+Weinberger Caspar	PO	18	08	1917	15:10	8h	37N47	122W25	San Francisco, CA
+Weisner Maurice	MI	20	11	1917	21:00	6h	35N58	83W55	Knoxville, TN
+Welch Raquel	AC	05	09	1940	14:04	5h	41N52	87W39	Chicago, IL
+Welles Orson	AC	06	05	1915	07:00	6h	42N35	87W49	Kenosha, WI
+Wells Mary	EX	25	05	1928	11:30	5h	41N6	80W39	Youngstown, OH
+Werner Wallace	SP	26	02	1936	22:00	7h	40N29	106W50	Steamboat Springs, CO
+Wescott Glenway	WR	11	04	1901	17:00	6h	43N31	88W14	Kewaskum, WI
+Wesselmann Tom	AR	23	02	1931	08:00	5h	39N6	84W31	Cincinnati, OH
+Westermann Horace	WR	11	12	1922	09:35	8h	34N4	118W15	Los Angeles, CA
+Weyand Frederick	MI	15	09	1916	13:00	8h	39N1	122W3	Arbuckle, CA
+Weyerhaeuser George	EX	08	07	1926	07:11	8h	47N36	122W20	Seattle, WA
+Whitaker Johnny	AC	13	12	1959	00:14	8h	34N11	118W26	Van Nuys, CA
+White Byron	SP	09	06	1917	06:00	7h	40N35	105W5	Fort Collins, CO
+White Edward	MI	14	11	1930	06:20	6h	29N25	98W30	San Antonio, TX
+White Jo	SP	14	11	1946	02:59	6h	38N37	90W12	St Louis, MO
+Whitman Stuart	AC	01	02	1928	09:25	8h	37N47	122W25	San Francisco, CA
+Whitworth Kathy	SP	27	09	1939	03:00	6h	31N36	102W54	Monahans, TX
+Wicker Tom	WR	18	06	1926	09:40	5h	35N53	79W42	Hamlet, NC
+Widmark Richard	AC	26	12	1914	00:45	6h	45N33	92W51	Sunrise, MN
+Wieseman Frederick	MI	16	03	1908	16:45	6h	43N2	87W55	Milwaukee, WI
+Wilcox David	SP	29	09	1942	15:00	6h	44N2	116W58	Ontario, OR
+Wilhelm James	SP	26	07	1922	02:30	5h	35N25	80W51	Huntersville, NC
+Wilkinson Eugene	MI	10	08	1918	12:00	7h	33N47	118W11	Long Beach, CA
+Willard Kenneth	SP	14	07	1943	17:10	4h	37N33	77W27	Richmond, VA
+Williams Charles	WR	04	11	1936	00:21	5h	40N44	74W10	Newark, NJ
+Williams Cindy	AC	22	08	1947	16:35	8h	34N11	118W26	Van Nuys, CA
+Williams Emmett	WR	04	04	1925	10:00	5h	34N51	82W24	Greenville, SC
+Williams John	PO	29	10	1909	16:30	8h	34N4	118W15	Los Angeles, CA
+Williams Jonathan	WR	08	03	1929	02:15	5h	35N36	82W33	Asheville, NC
+Williams Randy	SP	23	08	1953	03:29	7h	36N44	119W47	Fresno, CA
+Williams Robert	EX	07	02	1913	13:40	8h	37N47	122W25	San Francisco, CA
+Williams Robley	SC	13	10	1908	00:00	8h	38N26	122W43	Santa Rosa, CA
+Williams Stephen	SC	28	08	1926	17:20	6h	44N59	93W16	Minneapolis, MN
+Williams Theodore	SP	30	08	1918	12:20	7h	32N43	117W9	San Diego, CA
+Williamson Ellis	MI	02	06	1918	06:00	4h	34N59	79W14	Raeford, NC
+Wills Helen	SP	06	10	1905	02:25	8h	37N52	122W16	Berkeley, CA
+Willson Zack	SP	26	02	1932	03:00	5h	40N57	83W10	Sycamore, OH
+Wilson Flip	AC	08	12	1933	21:27	5h	40N44	74W4	Jersey City, NJ
+Wilson Nancy	AR	20	02	1937	08:57	5h	39N20	82W59	Chillicothe, OH
+Wilson Olin	SC	13	01	1909	13:00	8h	37N47	122W25	San Francisco, CA
+Wilson Robert	MI	24	05	1921	23:55	6h	38N32	89W8	Centralia, IL
+Wilson Robert	SC	09	01	1936	02:06	6h	29N46	95W22	Houston, TX
+Winters Jonathan	AC	11	11	1925	20:23	6h	39N45	84W12	Dayton, OH
+Winters Shelley	AC	18	08	1922	00:05	6h	38N37	90W12	St Louis, MO
+Wisman William	MI	30	05	1918	10:00	5h	37N41	96W59	Augusta, KS
+Woodruff John	SP	05	07	1915	09:00	5h	40N1	79W35	Connellsville, PA
+Worden Alfred	MI	07	02	1932	12:30	5h	42N15	84W24	Jackson, MI
+Wottle Dave	SP	07	08	1950	14:39	4h	40N48	81W23	Canton, OH
+Wright Ernie	SP	06	11	1939	11:20	5h	41N39	83W33	Toledo, OH
+Wright James	WR	13	12	1927	14:40	5h	40N6	80W44	Martin'S Ferry, OH
+Wright Mickey	SP	14	02	1935	04:55	8h	32N43	117W9	San Diego, CA
+Wyeth James	AR	06	07	1946	09:42	4h	39N45	75W33	Wilmington, DE
+Wymore Patrice	AC	17	12	1926	23:25	6h	39N21	97W27	Miltonvale, KS
+Wynn Early	SP	06	01	1920	22:00	6h	31N6	85W42	Hartford, AL
+Yarborough Cale	SP	27	03	1939	07:00	5h	34N8	79W57	Timmonsville, SC
+Yoder Hatten	SC	20	03	1921	21:00	5h	41N30	81W42	Cleveland, OH
+Young Charles	SP	05	02	1951	03:15	8h	36N44	119W47	Fresno, CA
+Young John	MI	24	09	1930	10:10	8h	37N47	122W25	San Francisco, CA
+Young Loretta	AC	06	01	1913	15:30	7h	40N45	111W53	Salt Lake City, UT
+Young Withney	PO	31	07	1921	04:00	6h	38N13	85W21	Lincoln Ridge, KY
+Ziegler Ronald	PO	12	05	1939	06:56	5h	39N5	84W31	Covington, KY
+Zimmer Paul	WR	18	09	1934	22:00	5h	40N48	81W23	Canton, OH
+Zimmermann Edwin	MI	25	02	1918	06:15	6h	37N42	97W20	Wichita, KS
+Zook John	SP	24	09	1947	07:46	7h	37N58	100W53	Garden City, KS
+Zumwalt Elmo	MI	29	11	1920	14:35	8h	37N47	122W25	San Francisco, CA
+
