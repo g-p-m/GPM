@@ -1,26 +1,25 @@
 #import matplotlib, matplotlib.pyplot as plt
 #matplotlib.use('TkAgg')
 import sys, math, scipy.stats, ephem   # 4.1.3    # pip install ephem      # https://pypi.org/project/ephem
-objects = [ephem.Moon(), ephem.Sun()]  # Also, Lunar apogee is in the list, see +2 below, in computeAll()
-ito = 0  # index of the Target Object (that is, Moon)
 startPoint = int(sys.argv[2])
 NumSECTORS = int(sys.argv[3])
+objects = [ephem.Moon(), ephem.Sun()]  # Note the first one is the target point. Also, Lunar apogee is in the list, see +2 below, in computeAll()
 years, insideYear, apogees, countYear = [], [], [], [0] * 2022
 minYear, maxYear = 9999, 0
 ctg, ccg = [0] * NumSECTORS, [0] * NumSECTORS   # ctg = count in Target Group, ccg = count in Control Group
 assert ephem.Date((1911, 3, 2, -2, 0, 0)) == ephem.Date((1911, 2, 29, 22, 0, 0))  # Assert negative hours are OK, and on non-leap years Feb.29 => Mar.1
 
 def calcSpeed(obj, dist, julday, step):
-    step = min(1/16384, step/2)   # 86400 seconds per day, so 1/16384 of a day is approx. 5 seconds
+    step = min(1/16384, step/2)   # 86400 seconds per day, so 1/16384 of a day is approximately 5 seconds
     while 1:
         obj.compute(julday+step, epoch=julday+step)
         if dist != obj.earth_distance:  return obj.earth_distance - dist
         obj.compute(julday-step, epoch=julday-step)
         if dist != obj.earth_distance:  return dist - obj.earth_distance
-        step *= 1.5  # Cannot detect speed with this small step, so lets increase it
+        step *= 1.5  # Cannot detect speed with this small step, let's increase step
 
 def findNextApogee(julday):
-    obj = objects[ito]
+    obj = objects[0]
     obj.compute(julday, epoch=julday)
     speed = calcSpeed(obj, obj.earth_distance, julday, 1)
     for x in range(17):
@@ -46,12 +45,12 @@ def computeAll(year, month, day, hour, minute, second):
         obj = objects[index]
         obj.compute(julday, epoch=julday)
         longitudes[index] = float( ephem.Ecliptic(obj).lon ) / math.pi * 180
-    if startPoint==-2:
+    if startPoint==-2:   # if we need the Lunar apogee
         idx = binarySearchApogee(julday, 0, len(apogees)-1)
         juldayBelow = apogees[idx]
         juldayAbove = apogees[idx+1]
         assert 26.5 < juldayAbove-juldayBelow < 28 and juldayBelow<=julday<=juldayAbove
-        obj = objects[ito]
+        obj = objects[0]
         obj.compute(juldayBelow, epoch=juldayBelow)
         longitudeBelow = float( ephem.Ecliptic(obj).lon ) / math.pi * 180
         obj.compute(juldayAbove, epoch=juldayAbove)
@@ -80,11 +79,11 @@ for line in open(sys.argv[1], 'rt'):   ### Process the input file, then collect 
 julday    = ephem.Date((minYear-1, 11, 1, 0,0,0))
 juldayEnd = ephem.Date((maxYear+1,  2, 1, 0,0,0))
 while julday < juldayEnd:
-    julday = findNextApogee(julday+25)  # Because the next one is 25+ Julian days after the previous
+    julday = findNextApogee(julday+24)  # Because the next one is 24+ Julian days after the previous
     apogees.append(julday)
 for y, insy in zip(years, insideYear):
     longitudes = computeAll(y, insy[0], insy[1], insy[2], insy[3], insy[4])
-    a = (longitudes[ito] + 360 - longitudes[startPoint]) % 360  # Angle between Target Object and startPoint
+    a = (longitudes[0] + 360 - longitudes[startPoint]) % 360  # Angle between Target Object and startPoint
     ctg[ int(a * NumSECTORS / 360) ] += 1    # Sum of all ctg's is nl
     #for x in longitudes:  print("%3.9f," % x, end='')  # Print them to look at the difference
     #print()                                            # between pyephem and pyswisseph?
@@ -93,19 +92,19 @@ for y in range(minYear, maxYear+1):   ### Collect statistics for the Control Gro
     if countYear[y]==0:  continue
     for insy in insideYear:  # Here we combine every InsideYear set with every year
         longitudes = computeAll(y, insy[0], insy[1], insy[2], insy[3], insy[4])
-        a = (longitudes[ito] + 360 - longitudes[startPoint]) % 360  # try +362 for set (MP,-2,12), here and in line a= above
+        a = (longitudes[0] + 360 - longitudes[startPoint]) % 360  # try +362 for set (MP,-2,12), here and in line a= above
         ccg[ int(a * NumSECTORS / 360) ] += countYear[y]
 nl = len(years)  # Number of valid lines
 assert sum(ccg) == nl**2   # Sum of all ccg's is nl*nl
 
-#for i in range(NumSECTORS):  print("%4d " % ctg[i], end = ('' if i<NumSECTORS-1 else ':'))
-#for i in range(NumSECTORS):  print("%7d " % ccg[i], end='')
-for i in range(NumSECTORS):  print("%4d " % (round(ctg[i] * 100000 / nl)), end = ('' if i<NumSECTORS-1 else ': '))
-for i in range(NumSECTORS):  print("%4d " % (round(ccg[i] * 100000 / nl**2)), end='')
-#for i in range(NumSECTORS):
-#    pv =            scipy.stats.binom.cdf(k = ctg[i],   n = nl, p=ccg[i] / nl**2)
-#    if pv>0.5: pv = scipy.stats.binom.cdf(k = ctg[i]-1, n = nl, p=ccg[i] / nl**2)
-#    print("%c%1.7f" % (' ' if  0.01 < pv < 0.99  else '@', pv), end='')
-print(' %1.7f' % scipy.stats.chisquare(ctg,[ccg[i] / nl  for i in range(NumSECTORS)])[1], sys.argv[1][12:-4])
+ccg = [ccg[i]*1. / nl  for i in range(NumSECTORS)]
+for i in range(NumSECTORS):  print("%4d" % ctg[i], end = (' ' if i<NumSECTORS-1 else ' : '))
+for i in range(NumSECTORS):  print("%5d" % (round(ctg[i] * 100000 / nl)), end = ('' if i<NumSECTORS-1 else ' : '))
+for i in range(NumSECTORS):  print("%4d" % (round(ccg[i] * 100000 / nl)), end=' ')
+for i in range(NumSECTORS):
+    pv =            scipy.stats.binom.cdf(k = ctg[i],   n = nl, p=ccg[i] / nl)
+    if pv>0.5: pv = scipy.stats.binom.cdf(k = ctg[i]-1, n = nl, p=ccg[i] / nl)
+    print("%c%1.7f" % (' ' if  0.01 < pv < 0.99  else '@', pv), end='')
+print('  %1.7f %1.7f' % (scipy.stats.chisquare(ctg,ccg)[1], scipy.stats.power_divergence(ctg,ccg,lambda_=0)[1]), sys.argv[1][12:-4])
 #plt.plot(list(range(NumSECTORS)), ctg)
-#plt.show()  # 111 lines, including 23 non-essential: empty lines, assertions, and #-disabled lines
+#plt.show()  # 110 lines, including 17 non-essential: empty lines, assertions, and #-disabled lines
