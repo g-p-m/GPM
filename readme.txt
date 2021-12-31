@@ -2,7 +2,9 @@ First, please install the necessary Python packages,
 pip install pyswisseph
 and/or
 pip install ephem
-and in the subfolder 'input' please execute 
+Also, scipy is a must (pip install scipy), matplotlib is optional.
+
+Then in the subfolder 'input' please execute
 either run_Me_FETCH_DATA_Linux.sh
 or run_Me_FETCH_DATA_Windows.bat
 according to your operating system.
@@ -30,4 +32,4 @@ Note in input/Fetch_from_cura.free.fr.py
 you can choose whether to fetch data
 from http://cura.free.fr/gauq/ or
 from http://web.archive.org/web/http://cura.free.fr/gauq/
- 
+
