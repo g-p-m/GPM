@@ -4,7 +4,7 @@ from http://web.archive.org/web/20070623142631/http://users.livejournal.com/_soa
 that is, the rightmost column of the 1st long table.
 
 Input files must contain only the date-time-place lines, for example, from this file:
-http://web.archive.org/web/20070705232755/http://ukr-inter.net/~sasha/db/initiate.zbs
+http://web.archive.org/web/20040205114722/http://ukr-inter.net/~sasha/db/initiate.zbs
 """
 
 import sys, swisseph as swe  # 2.8.00-1   # pip install pyswisseph   # https://pypi.org/project/pyswisseph
